@@ -1,0 +1,7002 @@
+[
+  {
+    "index": 1,
+    "prime": 2,
+    "timeToCalculate": 0,
+    "quotient": 0.5,
+    "difference": 1
+  },
+  {
+    "index": 2,
+    "prime": 3,
+    "timeToCalculate": 0,
+    "quotient": 1.3333333333333333,
+    "difference": 1
+  },
+  {
+    "index": 3,
+    "prime": 5,
+    "timeToCalculate": 0,
+    "quotient": 2.2,
+    "difference": 2
+  },
+  {
+    "index": 4,
+    "prime": 7,
+    "timeToCalculate": 0,
+    "quotient": 3.142857142857143,
+    "difference": 3
+  },
+  {
+    "index": 5,
+    "prime": 11,
+    "timeToCalculate": 0,
+    "quotient": 4.090909090909091,
+    "difference": 6
+  },
+  {
+    "index": 6,
+    "prime": 13,
+    "timeToCalculate": 0,
+    "quotient": 5.076923076923077,
+    "difference": 7
+  },
+  {
+    "index": 7,
+    "prime": 17,
+    "timeToCalculate": 0,
+    "quotient": 6.0588235294117645,
+    "difference": 10
+  },
+  {
+    "index": 8,
+    "prime": 19,
+    "timeToCalculate": 0,
+    "quotient": 7.052631578947368,
+    "difference": 11
+  },
+  {
+    "index": 9,
+    "prime": 23,
+    "timeToCalculate": 0,
+    "quotient": 8.043478260869565,
+    "difference": 14
+  },
+  {
+    "index": 10,
+    "prime": 29,
+    "timeToCalculate": 0,
+    "quotient": 9.03448275862069,
+    "difference": 19
+  },
+  {
+    "index": 11,
+    "prime": 31,
+    "timeToCalculate": 0,
+    "quotient": 10.03225806451613,
+    "difference": 20
+  },
+  {
+    "index": 12,
+    "prime": 37,
+    "timeToCalculate": 0,
+    "quotient": 11.027027027027026,
+    "difference": 25
+  },
+  {
+    "index": 13,
+    "prime": 41,
+    "timeToCalculate": 0,
+    "quotient": 12.024390243902438,
+    "difference": 28
+  },
+  {
+    "index": 14,
+    "prime": 43,
+    "timeToCalculate": 0,
+    "quotient": 13.023255813953488,
+    "difference": 29
+  },
+  {
+    "index": 15,
+    "prime": 47,
+    "timeToCalculate": 0,
+    "quotient": 14.02127659574468,
+    "difference": 32
+  },
+  {
+    "index": 16,
+    "prime": 53,
+    "timeToCalculate": 0,
+    "quotient": 15.018867924528301,
+    "difference": 37
+  },
+  {
+    "index": 17,
+    "prime": 59,
+    "timeToCalculate": 0,
+    "quotient": 16.016949152542374,
+    "difference": 42
+  },
+  {
+    "index": 18,
+    "prime": 61,
+    "timeToCalculate": 0,
+    "quotient": 17.016393442622952,
+    "difference": 43
+  },
+  {
+    "index": 19,
+    "prime": 67,
+    "timeToCalculate": 0,
+    "quotient": 18.01492537313433,
+    "difference": 48
+  },
+  {
+    "index": 20,
+    "prime": 71,
+    "timeToCalculate": 0,
+    "quotient": 19.014084507042252,
+    "difference": 51
+  },
+  {
+    "index": 21,
+    "prime": 73,
+    "timeToCalculate": 0,
+    "quotient": 20.013698630136986,
+    "difference": 52
+  },
+  {
+    "index": 22,
+    "prime": 79,
+    "timeToCalculate": 0,
+    "quotient": 21.0126582278481,
+    "difference": 57
+  },
+  {
+    "index": 23,
+    "prime": 83,
+    "timeToCalculate": 0,
+    "quotient": 22.012048192771083,
+    "difference": 60
+  },
+  {
+    "index": 24,
+    "prime": 89,
+    "timeToCalculate": 0,
+    "quotient": 23.01123595505618,
+    "difference": 65
+  },
+  {
+    "index": 25,
+    "prime": 97,
+    "timeToCalculate": 0,
+    "quotient": 24.010309278350515,
+    "difference": 72
+  },
+  {
+    "index": 26,
+    "prime": 101,
+    "timeToCalculate": 0,
+    "quotient": 25.00990099009901,
+    "difference": 75
+  },
+  {
+    "index": 27,
+    "prime": 103,
+    "timeToCalculate": 0,
+    "quotient": 26.009708737864077,
+    "difference": 76
+  },
+  {
+    "index": 28,
+    "prime": 107,
+    "timeToCalculate": 0,
+    "quotient": 27.009345794392523,
+    "difference": 79
+  },
+  {
+    "index": 29,
+    "prime": 109,
+    "timeToCalculate": 0,
+    "quotient": 28.009174311926607,
+    "difference": 80
+  },
+  {
+    "index": 30,
+    "prime": 113,
+    "timeToCalculate": 0,
+    "quotient": 29.008849557522122,
+    "difference": 83
+  },
+  {
+    "index": 31,
+    "prime": 127,
+    "timeToCalculate": 0,
+    "quotient": 30.007874015748033,
+    "difference": 96
+  },
+  {
+    "index": 32,
+    "prime": 131,
+    "timeToCalculate": 0,
+    "quotient": 31.00763358778626,
+    "difference": 99
+  },
+  {
+    "index": 33,
+    "prime": 137,
+    "timeToCalculate": 0,
+    "quotient": 32.00729927007299,
+    "difference": 104
+  },
+  {
+    "index": 34,
+    "prime": 139,
+    "timeToCalculate": 0,
+    "quotient": 33.007194244604314,
+    "difference": 105
+  },
+  {
+    "index": 35,
+    "prime": 149,
+    "timeToCalculate": 0,
+    "quotient": 34.006711409395976,
+    "difference": 114
+  },
+  {
+    "index": 36,
+    "prime": 151,
+    "timeToCalculate": 0,
+    "quotient": 35.00662251655629,
+    "difference": 115
+  },
+  {
+    "index": 37,
+    "prime": 157,
+    "timeToCalculate": 0,
+    "quotient": 36.00636942675159,
+    "difference": 120
+  },
+  {
+    "index": 38,
+    "prime": 163,
+    "timeToCalculate": 0,
+    "quotient": 37.00613496932515,
+    "difference": 125
+  },
+  {
+    "index": 39,
+    "prime": 167,
+    "timeToCalculate": 0,
+    "quotient": 38.0059880239521,
+    "difference": 128
+  },
+  {
+    "index": 40,
+    "prime": 173,
+    "timeToCalculate": 0,
+    "quotient": 39.005780346820806,
+    "difference": 133
+  },
+  {
+    "index": 41,
+    "prime": 179,
+    "timeToCalculate": 0,
+    "quotient": 40.00558659217877,
+    "difference": 138
+  },
+  {
+    "index": 42,
+    "prime": 181,
+    "timeToCalculate": 0,
+    "quotient": 41.005524861878456,
+    "difference": 139
+  },
+  {
+    "index": 43,
+    "prime": 191,
+    "timeToCalculate": 0,
+    "quotient": 42.00523560209424,
+    "difference": 148
+  },
+  {
+    "index": 44,
+    "prime": 193,
+    "timeToCalculate": 0,
+    "quotient": 43.005181347150256,
+    "difference": 149
+  },
+  {
+    "index": 45,
+    "prime": 197,
+    "timeToCalculate": 0,
+    "quotient": 44.005076142131976,
+    "difference": 152
+  },
+  {
+    "index": 46,
+    "prime": 199,
+    "timeToCalculate": 0,
+    "quotient": 45.005025125628144,
+    "difference": 153
+  },
+  {
+    "index": 47,
+    "prime": 211,
+    "timeToCalculate": 0,
+    "quotient": 46.00473933649289,
+    "difference": 164
+  },
+  {
+    "index": 48,
+    "prime": 223,
+    "timeToCalculate": 0,
+    "quotient": 47.00448430493274,
+    "difference": 175
+  },
+  {
+    "index": 49,
+    "prime": 227,
+    "timeToCalculate": 0,
+    "quotient": 48.00440528634361,
+    "difference": 178
+  },
+  {
+    "index": 50,
+    "prime": 229,
+    "timeToCalculate": 0,
+    "quotient": 49.004366812227076,
+    "difference": 179
+  },
+  {
+    "index": 51,
+    "prime": 233,
+    "timeToCalculate": 0,
+    "quotient": 50.00429184549356,
+    "difference": 182
+  },
+  {
+    "index": 52,
+    "prime": 239,
+    "timeToCalculate": 0,
+    "quotient": 51.00418410041841,
+    "difference": 187
+  },
+  {
+    "index": 53,
+    "prime": 241,
+    "timeToCalculate": 0,
+    "quotient": 52.004149377593365,
+    "difference": 188
+  },
+  {
+    "index": 54,
+    "prime": 251,
+    "timeToCalculate": 0,
+    "quotient": 53.00398406374502,
+    "difference": 197
+  },
+  {
+    "index": 55,
+    "prime": 257,
+    "timeToCalculate": 0,
+    "quotient": 54.00389105058366,
+    "difference": 202
+  },
+  {
+    "index": 56,
+    "prime": 263,
+    "timeToCalculate": 0,
+    "quotient": 55.00380228136882,
+    "difference": 207
+  },
+  {
+    "index": 57,
+    "prime": 269,
+    "timeToCalculate": 0,
+    "quotient": 56.00371747211896,
+    "difference": 212
+  },
+  {
+    "index": 58,
+    "prime": 271,
+    "timeToCalculate": 0,
+    "quotient": 57.003690036900366,
+    "difference": 213
+  },
+  {
+    "index": 59,
+    "prime": 277,
+    "timeToCalculate": 0,
+    "quotient": 58.00361010830325,
+    "difference": 218
+  },
+  {
+    "index": 60,
+    "prime": 281,
+    "timeToCalculate": 0,
+    "quotient": 59.00355871886121,
+    "difference": 221
+  },
+  {
+    "index": 61,
+    "prime": 283,
+    "timeToCalculate": 0,
+    "quotient": 60.003533568904594,
+    "difference": 222
+  },
+  {
+    "index": 62,
+    "prime": 293,
+    "timeToCalculate": 0,
+    "quotient": 61.003412969283275,
+    "difference": 231
+  },
+  {
+    "index": 63,
+    "prime": 307,
+    "timeToCalculate": 0,
+    "quotient": 62.00325732899023,
+    "difference": 244
+  },
+  {
+    "index": 64,
+    "prime": 311,
+    "timeToCalculate": 0,
+    "quotient": 63.0032154340836,
+    "difference": 247
+  },
+  {
+    "index": 65,
+    "prime": 313,
+    "timeToCalculate": 0,
+    "quotient": 64.00319488817891,
+    "difference": 248
+  },
+  {
+    "index": 66,
+    "prime": 317,
+    "timeToCalculate": 0,
+    "quotient": 65.0031545741325,
+    "difference": 251
+  },
+  {
+    "index": 67,
+    "prime": 331,
+    "timeToCalculate": 0,
+    "quotient": 66.00302114803625,
+    "difference": 264
+  },
+  {
+    "index": 68,
+    "prime": 337,
+    "timeToCalculate": 0,
+    "quotient": 67.00296735905044,
+    "difference": 269
+  },
+  {
+    "index": 69,
+    "prime": 347,
+    "timeToCalculate": 0,
+    "quotient": 68.0028818443804,
+    "difference": 278
+  },
+  {
+    "index": 70,
+    "prime": 349,
+    "timeToCalculate": 0,
+    "quotient": 69.0028653295129,
+    "difference": 279
+  },
+  {
+    "index": 71,
+    "prime": 353,
+    "timeToCalculate": 0,
+    "quotient": 70.0028328611898,
+    "difference": 282
+  },
+  {
+    "index": 72,
+    "prime": 359,
+    "timeToCalculate": 0,
+    "quotient": 71.00278551532034,
+    "difference": 287
+  },
+  {
+    "index": 73,
+    "prime": 367,
+    "timeToCalculate": 0,
+    "quotient": 72.00272479564033,
+    "difference": 294
+  },
+  {
+    "index": 74,
+    "prime": 373,
+    "timeToCalculate": 0,
+    "quotient": 73.00268096514745,
+    "difference": 299
+  },
+  {
+    "index": 75,
+    "prime": 379,
+    "timeToCalculate": 0,
+    "quotient": 74.00263852242745,
+    "difference": 304
+  },
+  {
+    "index": 76,
+    "prime": 383,
+    "timeToCalculate": 0,
+    "quotient": 75.00261096605745,
+    "difference": 307
+  },
+  {
+    "index": 77,
+    "prime": 389,
+    "timeToCalculate": 0,
+    "quotient": 76.00257069408741,
+    "difference": 312
+  },
+  {
+    "index": 78,
+    "prime": 397,
+    "timeToCalculate": 0,
+    "quotient": 77.00251889168766,
+    "difference": 319
+  },
+  {
+    "index": 79,
+    "prime": 401,
+    "timeToCalculate": 0,
+    "quotient": 78.00249376558604,
+    "difference": 322
+  },
+  {
+    "index": 80,
+    "prime": 409,
+    "timeToCalculate": 0,
+    "quotient": 79.00244498777506,
+    "difference": 329
+  },
+  {
+    "index": 81,
+    "prime": 419,
+    "timeToCalculate": 0,
+    "quotient": 80.00238663484487,
+    "difference": 338
+  },
+  {
+    "index": 82,
+    "prime": 421,
+    "timeToCalculate": 0,
+    "quotient": 81.00237529691212,
+    "difference": 339
+  },
+  {
+    "index": 83,
+    "prime": 431,
+    "timeToCalculate": 0,
+    "quotient": 82.00232018561485,
+    "difference": 348
+  },
+  {
+    "index": 84,
+    "prime": 433,
+    "timeToCalculate": 0,
+    "quotient": 83.00230946882218,
+    "difference": 349
+  },
+  {
+    "index": 85,
+    "prime": 439,
+    "timeToCalculate": 0,
+    "quotient": 84.00227790432803,
+    "difference": 354
+  },
+  {
+    "index": 86,
+    "prime": 443,
+    "timeToCalculate": 0,
+    "quotient": 85.00225733634312,
+    "difference": 357
+  },
+  {
+    "index": 87,
+    "prime": 449,
+    "timeToCalculate": 0,
+    "quotient": 86.00222717149221,
+    "difference": 362
+  },
+  {
+    "index": 88,
+    "prime": 457,
+    "timeToCalculate": 0,
+    "quotient": 87.00218818380743,
+    "difference": 369
+  },
+  {
+    "index": 89,
+    "prime": 461,
+    "timeToCalculate": 0,
+    "quotient": 88.00216919739697,
+    "difference": 372
+  },
+  {
+    "index": 90,
+    "prime": 463,
+    "timeToCalculate": 0,
+    "quotient": 89.00215982721382,
+    "difference": 373
+  },
+  {
+    "index": 91,
+    "prime": 467,
+    "timeToCalculate": 0,
+    "quotient": 90.00214132762312,
+    "difference": 376
+  },
+  {
+    "index": 92,
+    "prime": 479,
+    "timeToCalculate": 0,
+    "quotient": 91.00208768267224,
+    "difference": 387
+  },
+  {
+    "index": 93,
+    "prime": 487,
+    "timeToCalculate": 0,
+    "quotient": 92.00205338809035,
+    "difference": 394
+  },
+  {
+    "index": 94,
+    "prime": 491,
+    "timeToCalculate": 0,
+    "quotient": 93.0020366598778,
+    "difference": 397
+  },
+  {
+    "index": 95,
+    "prime": 499,
+    "timeToCalculate": 0,
+    "quotient": 94.00200400801603,
+    "difference": 404
+  },
+  {
+    "index": 96,
+    "prime": 503,
+    "timeToCalculate": 0,
+    "quotient": 95.00198807157058,
+    "difference": 407
+  },
+  {
+    "index": 97,
+    "prime": 509,
+    "timeToCalculate": 0,
+    "quotient": 96.00196463654224,
+    "difference": 412
+  },
+  {
+    "index": 98,
+    "prime": 521,
+    "timeToCalculate": 0,
+    "quotient": 97.00191938579654,
+    "difference": 423
+  },
+  {
+    "index": 99,
+    "prime": 523,
+    "timeToCalculate": 0,
+    "quotient": 98.0019120458891,
+    "difference": 424
+  },
+  {
+    "index": 100,
+    "prime": 541,
+    "timeToCalculate": 0,
+    "quotient": 99.00184842883549,
+    "difference": 441
+  },
+  {
+    "index": 101,
+    "prime": 547,
+    "timeToCalculate": 0,
+    "quotient": 100.0018281535649,
+    "difference": 446
+  },
+  {
+    "index": 102,
+    "prime": 557,
+    "timeToCalculate": 0,
+    "quotient": 101.00179533213644,
+    "difference": 455
+  },
+  {
+    "index": 103,
+    "prime": 563,
+    "timeToCalculate": 0,
+    "quotient": 102.00177619893428,
+    "difference": 460
+  },
+  {
+    "index": 104,
+    "prime": 569,
+    "timeToCalculate": 0,
+    "quotient": 103.00175746924428,
+    "difference": 465
+  },
+  {
+    "index": 105,
+    "prime": 571,
+    "timeToCalculate": 0,
+    "quotient": 104.00175131348512,
+    "difference": 466
+  },
+  {
+    "index": 106,
+    "prime": 577,
+    "timeToCalculate": 0,
+    "quotient": 105.00173310225303,
+    "difference": 471
+  },
+  {
+    "index": 107,
+    "prime": 587,
+    "timeToCalculate": 0,
+    "quotient": 106.00170357751277,
+    "difference": 480
+  },
+  {
+    "index": 108,
+    "prime": 593,
+    "timeToCalculate": 0,
+    "quotient": 107.00168634064082,
+    "difference": 485
+  },
+  {
+    "index": 109,
+    "prime": 599,
+    "timeToCalculate": 0,
+    "quotient": 108.0016694490818,
+    "difference": 490
+  },
+  {
+    "index": 110,
+    "prime": 601,
+    "timeToCalculate": 0,
+    "quotient": 109.00166389351081,
+    "difference": 491
+  },
+  {
+    "index": 111,
+    "prime": 607,
+    "timeToCalculate": 0,
+    "quotient": 110.001647446458,
+    "difference": 496
+  },
+  {
+    "index": 112,
+    "prime": 613,
+    "timeToCalculate": 0,
+    "quotient": 111.00163132137031,
+    "difference": 501
+  },
+  {
+    "index": 113,
+    "prime": 617,
+    "timeToCalculate": 0,
+    "quotient": 112.00162074554295,
+    "difference": 504
+  },
+  {
+    "index": 114,
+    "prime": 619,
+    "timeToCalculate": 0,
+    "quotient": 113.0016155088853,
+    "difference": 505
+  },
+  {
+    "index": 115,
+    "prime": 631,
+    "timeToCalculate": 0,
+    "quotient": 114.00158478605388,
+    "difference": 516
+  },
+  {
+    "index": 116,
+    "prime": 641,
+    "timeToCalculate": 0,
+    "quotient": 115.00156006240249,
+    "difference": 525
+  },
+  {
+    "index": 117,
+    "prime": 643,
+    "timeToCalculate": 0,
+    "quotient": 116.00155520995334,
+    "difference": 526
+  },
+  {
+    "index": 118,
+    "prime": 647,
+    "timeToCalculate": 0,
+    "quotient": 117.0015455950541,
+    "difference": 529
+  },
+  {
+    "index": 119,
+    "prime": 653,
+    "timeToCalculate": 0,
+    "quotient": 118.00153139356814,
+    "difference": 534
+  },
+  {
+    "index": 120,
+    "prime": 659,
+    "timeToCalculate": 0,
+    "quotient": 119.00151745068285,
+    "difference": 539
+  },
+  {
+    "index": 121,
+    "prime": 661,
+    "timeToCalculate": 0,
+    "quotient": 120.00151285930409,
+    "difference": 540
+  },
+  {
+    "index": 122,
+    "prime": 673,
+    "timeToCalculate": 0,
+    "quotient": 121.00148588410104,
+    "difference": 551
+  },
+  {
+    "index": 123,
+    "prime": 677,
+    "timeToCalculate": 0,
+    "quotient": 122.00147710487444,
+    "difference": 554
+  },
+  {
+    "index": 124,
+    "prime": 683,
+    "timeToCalculate": 0,
+    "quotient": 123.00146412884334,
+    "difference": 559
+  },
+  {
+    "index": 125,
+    "prime": 691,
+    "timeToCalculate": 0,
+    "quotient": 124.00144717800289,
+    "difference": 566
+  },
+  {
+    "index": 126,
+    "prime": 701,
+    "timeToCalculate": 0,
+    "quotient": 125.00142653352354,
+    "difference": 575
+  },
+  {
+    "index": 127,
+    "prime": 709,
+    "timeToCalculate": 0,
+    "quotient": 126.00141043723555,
+    "difference": 582
+  },
+  {
+    "index": 128,
+    "prime": 719,
+    "timeToCalculate": 0,
+    "quotient": 127.00139082058415,
+    "difference": 591
+  },
+  {
+    "index": 129,
+    "prime": 727,
+    "timeToCalculate": 0,
+    "quotient": 128.00137551581844,
+    "difference": 598
+  },
+  {
+    "index": 130,
+    "prime": 733,
+    "timeToCalculate": 0,
+    "quotient": 129.00136425648023,
+    "difference": 603
+  },
+  {
+    "index": 131,
+    "prime": 739,
+    "timeToCalculate": 0,
+    "quotient": 130.00135317997294,
+    "difference": 608
+  },
+  {
+    "index": 132,
+    "prime": 743,
+    "timeToCalculate": 0,
+    "quotient": 131.0013458950202,
+    "difference": 611
+  },
+  {
+    "index": 133,
+    "prime": 751,
+    "timeToCalculate": 0,
+    "quotient": 132.00133155792278,
+    "difference": 618
+  },
+  {
+    "index": 134,
+    "prime": 757,
+    "timeToCalculate": 0,
+    "quotient": 133.001321003963,
+    "difference": 623
+  },
+  {
+    "index": 135,
+    "prime": 761,
+    "timeToCalculate": 0,
+    "quotient": 134.0013140604468,
+    "difference": 626
+  },
+  {
+    "index": 136,
+    "prime": 769,
+    "timeToCalculate": 0,
+    "quotient": 135.00130039011702,
+    "difference": 633
+  },
+  {
+    "index": 137,
+    "prime": 773,
+    "timeToCalculate": 0,
+    "quotient": 136.0012936610608,
+    "difference": 636
+  },
+  {
+    "index": 138,
+    "prime": 787,
+    "timeToCalculate": 0,
+    "quotient": 137.0012706480305,
+    "difference": 649
+  },
+  {
+    "index": 139,
+    "prime": 797,
+    "timeToCalculate": 0,
+    "quotient": 138.0012547051443,
+    "difference": 658
+  },
+  {
+    "index": 140,
+    "prime": 809,
+    "timeToCalculate": 0,
+    "quotient": 139.00123609394313,
+    "difference": 669
+  },
+  {
+    "index": 141,
+    "prime": 811,
+    "timeToCalculate": 0,
+    "quotient": 140.00123304562268,
+    "difference": 670
+  },
+  {
+    "index": 142,
+    "prime": 821,
+    "timeToCalculate": 0,
+    "quotient": 141.00121802679658,
+    "difference": 679
+  },
+  {
+    "index": 143,
+    "prime": 823,
+    "timeToCalculate": 0,
+    "quotient": 142.00121506682868,
+    "difference": 680
+  },
+  {
+    "index": 144,
+    "prime": 827,
+    "timeToCalculate": 0,
+    "quotient": 143.0012091898428,
+    "difference": 683
+  },
+  {
+    "index": 145,
+    "prime": 829,
+    "timeToCalculate": 0,
+    "quotient": 144.00120627261762,
+    "difference": 684
+  },
+  {
+    "index": 146,
+    "prime": 839,
+    "timeToCalculate": 0,
+    "quotient": 145.00119189511324,
+    "difference": 693
+  },
+  {
+    "index": 147,
+    "prime": 853,
+    "timeToCalculate": 0,
+    "quotient": 146.00117233294256,
+    "difference": 706
+  },
+  {
+    "index": 148,
+    "prime": 857,
+    "timeToCalculate": 0,
+    "quotient": 147.00116686114353,
+    "difference": 709
+  },
+  {
+    "index": 149,
+    "prime": 859,
+    "timeToCalculate": 0,
+    "quotient": 148.0011641443539,
+    "difference": 710
+  },
+  {
+    "index": 150,
+    "prime": 863,
+    "timeToCalculate": 0,
+    "quotient": 149.00115874855157,
+    "difference": 713
+  },
+  {
+    "index": 151,
+    "prime": 877,
+    "timeToCalculate": 0,
+    "quotient": 150.0011402508552,
+    "difference": 726
+  },
+  {
+    "index": 152,
+    "prime": 881,
+    "timeToCalculate": 0,
+    "quotient": 151.0011350737798,
+    "difference": 729
+  },
+  {
+    "index": 153,
+    "prime": 883,
+    "timeToCalculate": 0,
+    "quotient": 152.00113250283127,
+    "difference": 730
+  },
+  {
+    "index": 154,
+    "prime": 887,
+    "timeToCalculate": 0,
+    "quotient": 153.00112739571588,
+    "difference": 733
+  },
+  {
+    "index": 155,
+    "prime": 907,
+    "timeToCalculate": 0,
+    "quotient": 154.00110253583242,
+    "difference": 752
+  },
+  {
+    "index": 156,
+    "prime": 911,
+    "timeToCalculate": 0,
+    "quotient": 155.00109769484084,
+    "difference": 755
+  },
+  {
+    "index": 157,
+    "prime": 919,
+    "timeToCalculate": 0,
+    "quotient": 156.00108813928182,
+    "difference": 762
+  },
+  {
+    "index": 158,
+    "prime": 929,
+    "timeToCalculate": 0,
+    "quotient": 157.0010764262648,
+    "difference": 771
+  },
+  {
+    "index": 159,
+    "prime": 937,
+    "timeToCalculate": 0,
+    "quotient": 158.00106723585913,
+    "difference": 778
+  },
+  {
+    "index": 160,
+    "prime": 941,
+    "timeToCalculate": 0,
+    "quotient": 159.00106269925612,
+    "difference": 781
+  },
+  {
+    "index": 161,
+    "prime": 947,
+    "timeToCalculate": 0,
+    "quotient": 160.0010559662091,
+    "difference": 786
+  },
+  {
+    "index": 162,
+    "prime": 953,
+    "timeToCalculate": 0,
+    "quotient": 161.00104931794334,
+    "difference": 791
+  },
+  {
+    "index": 163,
+    "prime": 967,
+    "timeToCalculate": 0,
+    "quotient": 162.0010341261634,
+    "difference": 804
+  },
+  {
+    "index": 164,
+    "prime": 971,
+    "timeToCalculate": 0,
+    "quotient": 163.0010298661174,
+    "difference": 807
+  },
+  {
+    "index": 165,
+    "prime": 977,
+    "timeToCalculate": 0,
+    "quotient": 164.00102354145343,
+    "difference": 812
+  },
+  {
+    "index": 166,
+    "prime": 983,
+    "timeToCalculate": 0,
+    "quotient": 165.00101729399796,
+    "difference": 817
+  },
+  {
+    "index": 167,
+    "prime": 991,
+    "timeToCalculate": 0,
+    "quotient": 166.00100908173562,
+    "difference": 824
+  },
+  {
+    "index": 168,
+    "prime": 997,
+    "timeToCalculate": 0,
+    "quotient": 167.00100300902707,
+    "difference": 829
+  },
+  {
+    "index": 169,
+    "prime": 1009,
+    "timeToCalculate": 0,
+    "quotient": 168.00099108027752,
+    "difference": 840
+  },
+  {
+    "index": 170,
+    "prime": 1013,
+    "timeToCalculate": 0,
+    "quotient": 169.00098716683118,
+    "difference": 843
+  },
+  {
+    "index": 171,
+    "prime": 1019,
+    "timeToCalculate": 0,
+    "quotient": 170.0009813542689,
+    "difference": 848
+  },
+  {
+    "index": 172,
+    "prime": 1021,
+    "timeToCalculate": 0,
+    "quotient": 171.0009794319295,
+    "difference": 849
+  },
+  {
+    "index": 173,
+    "prime": 1031,
+    "timeToCalculate": 0,
+    "quotient": 172.00096993210477,
+    "difference": 858
+  },
+  {
+    "index": 174,
+    "prime": 1033,
+    "timeToCalculate": 0,
+    "quotient": 173.00096805421103,
+    "difference": 859
+  },
+  {
+    "index": 175,
+    "prime": 1039,
+    "timeToCalculate": 0,
+    "quotient": 174.0009624639076,
+    "difference": 864
+  },
+  {
+    "index": 176,
+    "prime": 1049,
+    "timeToCalculate": 0,
+    "quotient": 175.00095328884652,
+    "difference": 873
+  },
+  {
+    "index": 177,
+    "prime": 1051,
+    "timeToCalculate": 0,
+    "quotient": 176.00095147478592,
+    "difference": 874
+  },
+  {
+    "index": 178,
+    "prime": 1061,
+    "timeToCalculate": 0,
+    "quotient": 177.0009425070688,
+    "difference": 883
+  },
+  {
+    "index": 179,
+    "prime": 1063,
+    "timeToCalculate": 0,
+    "quotient": 178.00094073377235,
+    "difference": 884
+  },
+  {
+    "index": 180,
+    "prime": 1069,
+    "timeToCalculate": 0,
+    "quotient": 179.00093545369504,
+    "difference": 889
+  },
+  {
+    "index": 181,
+    "prime": 1087,
+    "timeToCalculate": 0,
+    "quotient": 180.00091996320148,
+    "difference": 906
+  },
+  {
+    "index": 182,
+    "prime": 1091,
+    "timeToCalculate": 0,
+    "quotient": 181.00091659028413,
+    "difference": 909
+  },
+  {
+    "index": 183,
+    "prime": 1093,
+    "timeToCalculate": 0,
+    "quotient": 182.00091491308325,
+    "difference": 910
+  },
+  {
+    "index": 184,
+    "prime": 1097,
+    "timeToCalculate": 0,
+    "quotient": 183.00091157702826,
+    "difference": 913
+  },
+  {
+    "index": 185,
+    "prime": 1103,
+    "timeToCalculate": 0,
+    "quotient": 184.00090661831368,
+    "difference": 918
+  },
+  {
+    "index": 186,
+    "prime": 1109,
+    "timeToCalculate": 0,
+    "quotient": 185.0009017132552,
+    "difference": 923
+  },
+  {
+    "index": 187,
+    "prime": 1117,
+    "timeToCalculate": 0,
+    "quotient": 186.00089525514773,
+    "difference": 930
+  },
+  {
+    "index": 188,
+    "prime": 1123,
+    "timeToCalculate": 0,
+    "quotient": 187.00089047195013,
+    "difference": 935
+  },
+  {
+    "index": 189,
+    "prime": 1129,
+    "timeToCalculate": 0,
+    "quotient": 188.00088573959255,
+    "difference": 940
+  },
+  {
+    "index": 190,
+    "prime": 1151,
+    "timeToCalculate": 0,
+    "quotient": 189.00086880973066,
+    "difference": 961
+  },
+  {
+    "index": 191,
+    "prime": 1153,
+    "timeToCalculate": 0,
+    "quotient": 190.00086730268865,
+    "difference": 962
+  },
+  {
+    "index": 192,
+    "prime": 1163,
+    "timeToCalculate": 0,
+    "quotient": 191.00085984522786,
+    "difference": 971
+  },
+  {
+    "index": 193,
+    "prime": 1171,
+    "timeToCalculate": 0,
+    "quotient": 192.00085397096498,
+    "difference": 978
+  },
+  {
+    "index": 194,
+    "prime": 1181,
+    "timeToCalculate": 0,
+    "quotient": 193.0008467400508,
+    "difference": 987
+  },
+  {
+    "index": 195,
+    "prime": 1187,
+    "timeToCalculate": 0,
+    "quotient": 194.00084245998315,
+    "difference": 992
+  },
+  {
+    "index": 196,
+    "prime": 1193,
+    "timeToCalculate": 0,
+    "quotient": 195.0008382229673,
+    "difference": 997
+  },
+  {
+    "index": 197,
+    "prime": 1201,
+    "timeToCalculate": 0,
+    "quotient": 196.00083263946712,
+    "difference": 1004
+  },
+  {
+    "index": 198,
+    "prime": 1213,
+    "timeToCalculate": 0,
+    "quotient": 197.00082440230833,
+    "difference": 1015
+  },
+  {
+    "index": 199,
+    "prime": 1217,
+    "timeToCalculate": 0,
+    "quotient": 198.00082169268694,
+    "difference": 1018
+  },
+  {
+    "index": 200,
+    "prime": 1223,
+    "timeToCalculate": 0,
+    "quotient": 199.00081766148816,
+    "difference": 1023
+  },
+  {
+    "index": 201,
+    "prime": 1229,
+    "timeToCalculate": 0,
+    "quotient": 200.0008136696501,
+    "difference": 1028
+  },
+  {
+    "index": 202,
+    "prime": 1231,
+    "timeToCalculate": 0,
+    "quotient": 201.0008123476848,
+    "difference": 1029
+  },
+  {
+    "index": 203,
+    "prime": 1237,
+    "timeToCalculate": 0,
+    "quotient": 202.00080840743735,
+    "difference": 1034
+  },
+  {
+    "index": 204,
+    "prime": 1249,
+    "timeToCalculate": 0,
+    "quotient": 203.0008006405124,
+    "difference": 1045
+  },
+  {
+    "index": 205,
+    "prime": 1259,
+    "timeToCalculate": 0,
+    "quotient": 204.00079428117553,
+    "difference": 1054
+  },
+  {
+    "index": 206,
+    "prime": 1277,
+    "timeToCalculate": 0,
+    "quotient": 205.00078308535632,
+    "difference": 1071
+  },
+  {
+    "index": 207,
+    "prime": 1279,
+    "timeToCalculate": 0,
+    "quotient": 206.00078186082877,
+    "difference": 1072
+  },
+  {
+    "index": 208,
+    "prime": 1283,
+    "timeToCalculate": 0,
+    "quotient": 207.00077942322682,
+    "difference": 1075
+  },
+  {
+    "index": 209,
+    "prime": 1289,
+    "timeToCalculate": 0,
+    "quotient": 208.00077579519007,
+    "difference": 1080
+  },
+  {
+    "index": 210,
+    "prime": 1291,
+    "timeToCalculate": 0,
+    "quotient": 209.0007745933385,
+    "difference": 1081
+  },
+  {
+    "index": 211,
+    "prime": 1297,
+    "timeToCalculate": 0,
+    "quotient": 210.00077101002313,
+    "difference": 1086
+  },
+  {
+    "index": 212,
+    "prime": 1301,
+    "timeToCalculate": 0,
+    "quotient": 211.00076863950807,
+    "difference": 1089
+  },
+  {
+    "index": 213,
+    "prime": 1303,
+    "timeToCalculate": 0,
+    "quotient": 212.00076745970836,
+    "difference": 1090
+  },
+  {
+    "index": 214,
+    "prime": 1307,
+    "timeToCalculate": 0,
+    "quotient": 213.00076511094107,
+    "difference": 1093
+  },
+  {
+    "index": 215,
+    "prime": 1319,
+    "timeToCalculate": 0,
+    "quotient": 214.0007581501137,
+    "difference": 1104
+  },
+  {
+    "index": 216,
+    "prime": 1321,
+    "timeToCalculate": 0,
+    "quotient": 215.000757002271,
+    "difference": 1105
+  },
+  {
+    "index": 217,
+    "prime": 1327,
+    "timeToCalculate": 0,
+    "quotient": 216.00075357950263,
+    "difference": 1110
+  },
+  {
+    "index": 218,
+    "prime": 1361,
+    "timeToCalculate": 0,
+    "quotient": 217.00073475385744,
+    "difference": 1143
+  },
+  {
+    "index": 219,
+    "prime": 1367,
+    "timeToCalculate": 0,
+    "quotient": 218.0007315288954,
+    "difference": 1148
+  },
+  {
+    "index": 220,
+    "prime": 1373,
+    "timeToCalculate": 0,
+    "quotient": 219.00072833211945,
+    "difference": 1153
+  },
+  {
+    "index": 221,
+    "prime": 1381,
+    "timeToCalculate": 0,
+    "quotient": 220.00072411296162,
+    "difference": 1160
+  },
+  {
+    "index": 222,
+    "prime": 1399,
+    "timeToCalculate": 0,
+    "quotient": 221.00071479628306,
+    "difference": 1177
+  },
+  {
+    "index": 223,
+    "prime": 1409,
+    "timeToCalculate": 0,
+    "quotient": 222.00070972320796,
+    "difference": 1186
+  },
+  {
+    "index": 224,
+    "prime": 1423,
+    "timeToCalculate": 0,
+    "quotient": 223.0007027406887,
+    "difference": 1199
+  },
+  {
+    "index": 225,
+    "prime": 1427,
+    "timeToCalculate": 0,
+    "quotient": 224.00070077084794,
+    "difference": 1202
+  },
+  {
+    "index": 226,
+    "prime": 1429,
+    "timeToCalculate": 0,
+    "quotient": 225.00069979006298,
+    "difference": 1203
+  },
+  {
+    "index": 227,
+    "prime": 1433,
+    "timeToCalculate": 0,
+    "quotient": 226.00069783670622,
+    "difference": 1206
+  },
+  {
+    "index": 228,
+    "prime": 1439,
+    "timeToCalculate": 0,
+    "quotient": 227.00069492703267,
+    "difference": 1211
+  },
+  {
+    "index": 229,
+    "prime": 1447,
+    "timeToCalculate": 0,
+    "quotient": 228.00069108500347,
+    "difference": 1218
+  },
+  {
+    "index": 230,
+    "prime": 1451,
+    "timeToCalculate": 0,
+    "quotient": 229.00068917987593,
+    "difference": 1221
+  },
+  {
+    "index": 231,
+    "prime": 1453,
+    "timeToCalculate": 0,
+    "quotient": 230.0006882312457,
+    "difference": 1222
+  },
+  {
+    "index": 232,
+    "prime": 1459,
+    "timeToCalculate": 0,
+    "quotient": 231.00068540095955,
+    "difference": 1227
+  },
+  {
+    "index": 233,
+    "prime": 1471,
+    "timeToCalculate": 0,
+    "quotient": 232.0006798096533,
+    "difference": 1238
+  },
+  {
+    "index": 234,
+    "prime": 1481,
+    "timeToCalculate": 0,
+    "quotient": 233.00067521944632,
+    "difference": 1247
+  },
+  {
+    "index": 235,
+    "prime": 1483,
+    "timeToCalculate": 0,
+    "quotient": 234.00067430883345,
+    "difference": 1248
+  },
+  {
+    "index": 236,
+    "prime": 1487,
+    "timeToCalculate": 0,
+    "quotient": 235.0006724949563,
+    "difference": 1251
+  },
+  {
+    "index": 237,
+    "prime": 1489,
+    "timeToCalculate": 0,
+    "quotient": 236.00067159167227,
+    "difference": 1252
+  },
+  {
+    "index": 238,
+    "prime": 1493,
+    "timeToCalculate": 0,
+    "quotient": 237.00066979236436,
+    "difference": 1255
+  },
+  {
+    "index": 239,
+    "prime": 1499,
+    "timeToCalculate": 0,
+    "quotient": 238.0006671114076,
+    "difference": 1260
+  },
+  {
+    "index": 240,
+    "prime": 1511,
+    "timeToCalculate": 0,
+    "quotient": 239.00066181336862,
+    "difference": 1271
+  },
+  {
+    "index": 241,
+    "prime": 1523,
+    "timeToCalculate": 0,
+    "quotient": 240.00065659881813,
+    "difference": 1282
+  },
+  {
+    "index": 242,
+    "prime": 1531,
+    "timeToCalculate": 0,
+    "quotient": 241.00065316786413,
+    "difference": 1289
+  },
+  {
+    "index": 243,
+    "prime": 1543,
+    "timeToCalculate": 0,
+    "quotient": 242.00064808814,
+    "difference": 1300
+  },
+  {
+    "index": 244,
+    "prime": 1549,
+    "timeToCalculate": 0,
+    "quotient": 243.0006455777921,
+    "difference": 1305
+  },
+  {
+    "index": 245,
+    "prime": 1553,
+    "timeToCalculate": 0,
+    "quotient": 244.00064391500322,
+    "difference": 1308
+  },
+  {
+    "index": 246,
+    "prime": 1559,
+    "timeToCalculate": 0,
+    "quotient": 245.00064143681848,
+    "difference": 1313
+  },
+  {
+    "index": 247,
+    "prime": 1567,
+    "timeToCalculate": 0,
+    "quotient": 246.00063816209317,
+    "difference": 1320
+  },
+  {
+    "index": 248,
+    "prime": 1571,
+    "timeToCalculate": 0,
+    "quotient": 247.00063653723743,
+    "difference": 1323
+  },
+  {
+    "index": 249,
+    "prime": 1579,
+    "timeToCalculate": 0,
+    "quotient": 248.00063331222293,
+    "difference": 1330
+  },
+  {
+    "index": 250,
+    "prime": 1583,
+    "timeToCalculate": 0,
+    "quotient": 249.00063171193935,
+    "difference": 1333
+  },
+  {
+    "index": 251,
+    "prime": 1597,
+    "timeToCalculate": 0,
+    "quotient": 250.0006261740764,
+    "difference": 1346
+  },
+  {
+    "index": 252,
+    "prime": 1601,
+    "timeToCalculate": 0,
+    "quotient": 251.000624609619,
+    "difference": 1349
+  },
+  {
+    "index": 253,
+    "prime": 1607,
+    "timeToCalculate": 0,
+    "quotient": 252.00062227753577,
+    "difference": 1354
+  },
+  {
+    "index": 254,
+    "prime": 1609,
+    "timeToCalculate": 0,
+    "quotient": 253.00062150403977,
+    "difference": 1355
+  },
+  {
+    "index": 255,
+    "prime": 1613,
+    "timeToCalculate": 0,
+    "quotient": 254.00061996280223,
+    "difference": 1358
+  },
+  {
+    "index": 256,
+    "prime": 1619,
+    "timeToCalculate": 0,
+    "quotient": 255.00061766522543,
+    "difference": 1363
+  },
+  {
+    "index": 257,
+    "prime": 1621,
+    "timeToCalculate": 0,
+    "quotient": 256.0006169031462,
+    "difference": 1364
+  },
+  {
+    "index": 258,
+    "prime": 1627,
+    "timeToCalculate": 0,
+    "quotient": 257.00061462814995,
+    "difference": 1369
+  },
+  {
+    "index": 259,
+    "prime": 1637,
+    "timeToCalculate": 0,
+    "quotient": 258.0006108735492,
+    "difference": 1378
+  },
+  {
+    "index": 260,
+    "prime": 1657,
+    "timeToCalculate": 0,
+    "quotient": 259.00060350030174,
+    "difference": 1397
+  },
+  {
+    "index": 261,
+    "prime": 1663,
+    "timeToCalculate": 0,
+    "quotient": 260.0006013229104,
+    "difference": 1402
+  },
+  {
+    "index": 262,
+    "prime": 1667,
+    "timeToCalculate": 0,
+    "quotient": 261.00059988002397,
+    "difference": 1405
+  },
+  {
+    "index": 263,
+    "prime": 1669,
+    "timeToCalculate": 0,
+    "quotient": 262.00059916117436,
+    "difference": 1406
+  },
+  {
+    "index": 264,
+    "prime": 1693,
+    "timeToCalculate": 0,
+    "quotient": 263.0005906674542,
+    "difference": 1429
+  },
+  {
+    "index": 265,
+    "prime": 1697,
+    "timeToCalculate": 0,
+    "quotient": 264.0005892751915,
+    "difference": 1432
+  },
+  {
+    "index": 266,
+    "prime": 1699,
+    "timeToCalculate": 0,
+    "quotient": 265.0005885815185,
+    "difference": 1433
+  },
+  {
+    "index": 267,
+    "prime": 1709,
+    "timeToCalculate": 0,
+    "quotient": 266.0005851375073,
+    "difference": 1442
+  },
+  {
+    "index": 268,
+    "prime": 1721,
+    "timeToCalculate": 0,
+    "quotient": 267.0005810575247,
+    "difference": 1453
+  },
+  {
+    "index": 269,
+    "prime": 1723,
+    "timeToCalculate": 0,
+    "quotient": 268.0005803830528,
+    "difference": 1454
+  },
+  {
+    "index": 270,
+    "prime": 1733,
+    "timeToCalculate": 0,
+    "quotient": 269.000577034045,
+    "difference": 1463
+  },
+  {
+    "index": 271,
+    "prime": 1741,
+    "timeToCalculate": 0,
+    "quotient": 270.0005743825388,
+    "difference": 1470
+  },
+  {
+    "index": 272,
+    "prime": 1747,
+    "timeToCalculate": 0,
+    "quotient": 271.00057240984546,
+    "difference": 1475
+  },
+  {
+    "index": 273,
+    "prime": 1753,
+    "timeToCalculate": 0,
+    "quotient": 272.000570450656,
+    "difference": 1480
+  },
+  {
+    "index": 274,
+    "prime": 1759,
+    "timeToCalculate": 0,
+    "quotient": 273.0005685048323,
+    "difference": 1485
+  },
+  {
+    "index": 275,
+    "prime": 1777,
+    "timeToCalculate": 0,
+    "quotient": 274.00056274620147,
+    "difference": 1502
+  },
+  {
+    "index": 276,
+    "prime": 1783,
+    "timeToCalculate": 0,
+    "quotient": 275.00056085249577,
+    "difference": 1507
+  },
+  {
+    "index": 277,
+    "prime": 1787,
+    "timeToCalculate": 0,
+    "quotient": 276.0005595970901,
+    "difference": 1510
+  },
+  {
+    "index": 278,
+    "prime": 1789,
+    "timeToCalculate": 0,
+    "quotient": 277.00055897149247,
+    "difference": 1511
+  },
+  {
+    "index": 279,
+    "prime": 1801,
+    "timeToCalculate": 0,
+    "quotient": 278.00055524708495,
+    "difference": 1522
+  },
+  {
+    "index": 280,
+    "prime": 1811,
+    "timeToCalculate": 0,
+    "quotient": 279.0005521811154,
+    "difference": 1531
+  },
+  {
+    "index": 281,
+    "prime": 1823,
+    "timeToCalculate": 0,
+    "quotient": 280.00054854635215,
+    "difference": 1542
+  },
+  {
+    "index": 282,
+    "prime": 1831,
+    "timeToCalculate": 0,
+    "quotient": 281.000546149645,
+    "difference": 1549
+  },
+  {
+    "index": 283,
+    "prime": 1847,
+    "timeToCalculate": 0,
+    "quotient": 282.0005414185165,
+    "difference": 1564
+  },
+  {
+    "index": 284,
+    "prime": 1861,
+    "timeToCalculate": 0,
+    "quotient": 283.0005373455132,
+    "difference": 1577
+  },
+  {
+    "index": 285,
+    "prime": 1867,
+    "timeToCalculate": 0,
+    "quotient": 284.0005356186395,
+    "difference": 1582
+  },
+  {
+    "index": 286,
+    "prime": 1871,
+    "timeToCalculate": 0,
+    "quotient": 285.00053447354355,
+    "difference": 1585
+  },
+  {
+    "index": 287,
+    "prime": 1873,
+    "timeToCalculate": 0,
+    "quotient": 286.00053390282966,
+    "difference": 1586
+  },
+  {
+    "index": 288,
+    "prime": 1877,
+    "timeToCalculate": 0,
+    "quotient": 287.0005327650506,
+    "difference": 1589
+  },
+  {
+    "index": 289,
+    "prime": 1879,
+    "timeToCalculate": 0,
+    "quotient": 288.00053219797763,
+    "difference": 1590
+  },
+  {
+    "index": 290,
+    "prime": 1889,
+    "timeToCalculate": 0,
+    "quotient": 289.00052938062464,
+    "difference": 1599
+  },
+  {
+    "index": 291,
+    "prime": 1901,
+    "timeToCalculate": 0,
+    "quotient": 290.00052603892686,
+    "difference": 1610
+  },
+  {
+    "index": 292,
+    "prime": 1907,
+    "timeToCalculate": 0,
+    "quotient": 291.000524383849,
+    "difference": 1615
+  },
+  {
+    "index": 293,
+    "prime": 1913,
+    "timeToCalculate": 0,
+    "quotient": 292.00052273915315,
+    "difference": 1620
+  },
+  {
+    "index": 294,
+    "prime": 1931,
+    "timeToCalculate": 0,
+    "quotient": 293.00051786639045,
+    "difference": 1637
+  },
+  {
+    "index": 295,
+    "prime": 1933,
+    "timeToCalculate": 0,
+    "quotient": 294.0005173305742,
+    "difference": 1638
+  },
+  {
+    "index": 296,
+    "prime": 1949,
+    "timeToCalculate": 0,
+    "quotient": 295.00051308363265,
+    "difference": 1653
+  },
+  {
+    "index": 297,
+    "prime": 1951,
+    "timeToCalculate": 0,
+    "quotient": 296.0005125576627,
+    "difference": 1654
+  },
+  {
+    "index": 298,
+    "prime": 1973,
+    "timeToCalculate": 0,
+    "quotient": 297.00050684237203,
+    "difference": 1675
+  },
+  {
+    "index": 299,
+    "prime": 1979,
+    "timeToCalculate": 0,
+    "quotient": 298.00050530570996,
+    "difference": 1680
+  },
+  {
+    "index": 300,
+    "prime": 1987,
+    "timeToCalculate": 0,
+    "quotient": 299.0005032712632,
+    "difference": 1687
+  },
+  {
+    "index": 301,
+    "prime": 1993,
+    "timeToCalculate": 0,
+    "quotient": 300.0005017561465,
+    "difference": 1692
+  },
+  {
+    "index": 302,
+    "prime": 1997,
+    "timeToCalculate": 0,
+    "quotient": 301.0005007511267,
+    "difference": 1695
+  },
+  {
+    "index": 303,
+    "prime": 1999,
+    "timeToCalculate": 0,
+    "quotient": 302.00050025012507,
+    "difference": 1696
+  },
+  {
+    "index": 304,
+    "prime": 2003,
+    "timeToCalculate": 0,
+    "quotient": 303.0004992511233,
+    "difference": 1699
+  },
+  {
+    "index": 305,
+    "prime": 2011,
+    "timeToCalculate": 0,
+    "quotient": 304.00049726504227,
+    "difference": 1706
+  },
+  {
+    "index": 306,
+    "prime": 2017,
+    "timeToCalculate": 0,
+    "quotient": 305.00049578582053,
+    "difference": 1711
+  },
+  {
+    "index": 307,
+    "prime": 2027,
+    "timeToCalculate": 0,
+    "quotient": 306.0004933399112,
+    "difference": 1720
+  },
+  {
+    "index": 308,
+    "prime": 2029,
+    "timeToCalculate": 0,
+    "quotient": 307.00049285362246,
+    "difference": 1721
+  },
+  {
+    "index": 309,
+    "prime": 2039,
+    "timeToCalculate": 0,
+    "quotient": 308.00049043648846,
+    "difference": 1730
+  },
+  {
+    "index": 310,
+    "prime": 2053,
+    "timeToCalculate": 0,
+    "quotient": 309.0004870920604,
+    "difference": 1743
+  },
+  {
+    "index": 311,
+    "prime": 2063,
+    "timeToCalculate": 0,
+    "quotient": 310.00048473097434,
+    "difference": 1752
+  },
+  {
+    "index": 312,
+    "prime": 2069,
+    "timeToCalculate": 0,
+    "quotient": 311.0004833252779,
+    "difference": 1757
+  },
+  {
+    "index": 313,
+    "prime": 2081,
+    "timeToCalculate": 0,
+    "quotient": 312.0004805382028,
+    "difference": 1768
+  },
+  {
+    "index": 314,
+    "prime": 2083,
+    "timeToCalculate": 0,
+    "quotient": 313.00048007681227,
+    "difference": 1769
+  },
+  {
+    "index": 315,
+    "prime": 2087,
+    "timeToCalculate": 0,
+    "quotient": 314.00047915668426,
+    "difference": 1772
+  },
+  {
+    "index": 316,
+    "prime": 2089,
+    "timeToCalculate": 0,
+    "quotient": 315.0004786979416,
+    "difference": 1773
+  },
+  {
+    "index": 317,
+    "prime": 2099,
+    "timeToCalculate": 0,
+    "quotient": 316.0004764173416,
+    "difference": 1782
+  },
+  {
+    "index": 318,
+    "prime": 2111,
+    "timeToCalculate": 0,
+    "quotient": 317.00047370914257,
+    "difference": 1793
+  },
+  {
+    "index": 319,
+    "prime": 2113,
+    "timeToCalculate": 0,
+    "quotient": 318.0004732607667,
+    "difference": 1794
+  },
+  {
+    "index": 320,
+    "prime": 2129,
+    "timeToCalculate": 0,
+    "quotient": 319.0004697040864,
+    "difference": 1809
+  },
+  {
+    "index": 321,
+    "prime": 2131,
+    "timeToCalculate": 0,
+    "quotient": 320.00046926325666,
+    "difference": 1810
+  },
+  {
+    "index": 322,
+    "prime": 2137,
+    "timeToCalculate": 0,
+    "quotient": 321.0004679457183,
+    "difference": 1815
+  },
+  {
+    "index": 323,
+    "prime": 2141,
+    "timeToCalculate": 0,
+    "quotient": 322.0004670714619,
+    "difference": 1818
+  },
+  {
+    "index": 324,
+    "prime": 2143,
+    "timeToCalculate": 0,
+    "quotient": 323.00046663555764,
+    "difference": 1819
+  },
+  {
+    "index": 325,
+    "prime": 2153,
+    "timeToCalculate": 0,
+    "quotient": 324.0004644681839,
+    "difference": 1828
+  },
+  {
+    "index": 326,
+    "prime": 2161,
+    "timeToCalculate": 0,
+    "quotient": 325.00046274872744,
+    "difference": 1835
+  },
+  {
+    "index": 327,
+    "prime": 2179,
+    "timeToCalculate": 0,
+    "quotient": 326.0004589261129,
+    "difference": 1852
+  },
+  {
+    "index": 328,
+    "prime": 2203,
+    "timeToCalculate": 0,
+    "quotient": 327.00045392646393,
+    "difference": 1875
+  },
+  {
+    "index": 329,
+    "prime": 2207,
+    "timeToCalculate": 0,
+    "quotient": 328.0004531037608,
+    "difference": 1878
+  },
+  {
+    "index": 330,
+    "prime": 2213,
+    "timeToCalculate": 0,
+    "quotient": 329.0004518752824,
+    "difference": 1883
+  },
+  {
+    "index": 331,
+    "prime": 2221,
+    "timeToCalculate": 0,
+    "quotient": 330.0004502476362,
+    "difference": 1890
+  },
+  {
+    "index": 332,
+    "prime": 2237,
+    "timeToCalculate": 0,
+    "quotient": 331.00044702726865,
+    "difference": 1905
+  },
+  {
+    "index": 333,
+    "prime": 2239,
+    "timeToCalculate": 0,
+    "quotient": 332.0004466279589,
+    "difference": 1906
+  },
+  {
+    "index": 334,
+    "prime": 2243,
+    "timeToCalculate": 0,
+    "quotient": 333.0004458314757,
+    "difference": 1909
+  },
+  {
+    "index": 335,
+    "prime": 2251,
+    "timeToCalculate": 0,
+    "quotient": 334.0004442470013,
+    "difference": 1916
+  },
+  {
+    "index": 336,
+    "prime": 2267,
+    "timeToCalculate": 0,
+    "quotient": 335.0004411116012,
+    "difference": 1931
+  },
+  {
+    "index": 337,
+    "prime": 2269,
+    "timeToCalculate": 0,
+    "quotient": 336.00044072278536,
+    "difference": 1932
+  },
+  {
+    "index": 338,
+    "prime": 2273,
+    "timeToCalculate": 0,
+    "quotient": 337.00043994720636,
+    "difference": 1935
+  },
+  {
+    "index": 339,
+    "prime": 2281,
+    "timeToCalculate": 0,
+    "quotient": 338.0004384042087,
+    "difference": 1942
+  },
+  {
+    "index": 340,
+    "prime": 2287,
+    "timeToCalculate": 0,
+    "quotient": 339.0004372540446,
+    "difference": 1947
+  },
+  {
+    "index": 341,
+    "prime": 2293,
+    "timeToCalculate": 0,
+    "quotient": 340.0004361098997,
+    "difference": 1952
+  },
+  {
+    "index": 342,
+    "prime": 2297,
+    "timeToCalculate": 0,
+    "quotient": 341.0004353504571,
+    "difference": 1955
+  },
+  {
+    "index": 343,
+    "prime": 2309,
+    "timeToCalculate": 0,
+    "quotient": 342.00043308791686,
+    "difference": 1966
+  },
+  {
+    "index": 344,
+    "prime": 2311,
+    "timeToCalculate": 0,
+    "quotient": 343.0004327131112,
+    "difference": 1967
+  },
+  {
+    "index": 345,
+    "prime": 2333,
+    "timeToCalculate": 0,
+    "quotient": 344.0004286326618,
+    "difference": 1988
+  },
+  {
+    "index": 346,
+    "prime": 2339,
+    "timeToCalculate": 0,
+    "quotient": 345.0004275331338,
+    "difference": 1993
+  },
+  {
+    "index": 347,
+    "prime": 2341,
+    "timeToCalculate": 0,
+    "quotient": 346.000427167877,
+    "difference": 1994
+  },
+  {
+    "index": 348,
+    "prime": 2347,
+    "timeToCalculate": 0,
+    "quotient": 347.0004260758415,
+    "difference": 1999
+  },
+  {
+    "index": 349,
+    "prime": 2351,
+    "timeToCalculate": 0,
+    "quotient": 348.0004253509145,
+    "difference": 2002
+  },
+  {
+    "index": 350,
+    "prime": 2357,
+    "timeToCalculate": 0,
+    "quotient": 349.00042426813746,
+    "difference": 2007
+  },
+  {
+    "index": 351,
+    "prime": 2371,
+    "timeToCalculate": 0,
+    "quotient": 350.0004217629692,
+    "difference": 2020
+  },
+  {
+    "index": 352,
+    "prime": 2377,
+    "timeToCalculate": 0,
+    "quotient": 351.0004206983593,
+    "difference": 2025
+  },
+  {
+    "index": 353,
+    "prime": 2381,
+    "timeToCalculate": 0,
+    "quotient": 352.00041999160015,
+    "difference": 2028
+  },
+  {
+    "index": 354,
+    "prime": 2383,
+    "timeToCalculate": 0,
+    "quotient": 353.00041963911036,
+    "difference": 2029
+  },
+  {
+    "index": 355,
+    "prime": 2389,
+    "timeToCalculate": 0,
+    "quotient": 354.0004185851821,
+    "difference": 2034
+  },
+  {
+    "index": 356,
+    "prime": 2393,
+    "timeToCalculate": 0,
+    "quotient": 355.00041788549936,
+    "difference": 2037
+  },
+  {
+    "index": 357,
+    "prime": 2399,
+    "timeToCalculate": 0,
+    "quotient": 356.00041684035017,
+    "difference": 2042
+  },
+  {
+    "index": 358,
+    "prime": 2411,
+    "timeToCalculate": 0,
+    "quotient": 357.0004147656574,
+    "difference": 2053
+  },
+  {
+    "index": 359,
+    "prime": 2417,
+    "timeToCalculate": 0,
+    "quotient": 358.0004137360364,
+    "difference": 2058
+  },
+  {
+    "index": 360,
+    "prime": 2423,
+    "timeToCalculate": 0,
+    "quotient": 359.0004127115146,
+    "difference": 2063
+  },
+  {
+    "index": 361,
+    "prime": 2437,
+    "timeToCalculate": 0,
+    "quotient": 360.0004103405827,
+    "difference": 2076
+  },
+  {
+    "index": 362,
+    "prime": 2441,
+    "timeToCalculate": 0,
+    "quotient": 361.0004096681688,
+    "difference": 2079
+  },
+  {
+    "index": 363,
+    "prime": 2447,
+    "timeToCalculate": 0,
+    "quotient": 362.0004086636698,
+    "difference": 2084
+  },
+  {
+    "index": 364,
+    "prime": 2459,
+    "timeToCalculate": 0,
+    "quotient": 363.0004066693778,
+    "difference": 2095
+  },
+  {
+    "index": 365,
+    "prime": 2467,
+    "timeToCalculate": 0,
+    "quotient": 364.0004053506283,
+    "difference": 2102
+  },
+  {
+    "index": 366,
+    "prime": 2473,
+    "timeToCalculate": 0,
+    "quotient": 365.0004043671654,
+    "difference": 2107
+  },
+  {
+    "index": 367,
+    "prime": 2477,
+    "timeToCalculate": 0,
+    "quotient": 366.0004037141704,
+    "difference": 2110
+  },
+  {
+    "index": 368,
+    "prime": 2503,
+    "timeToCalculate": 0,
+    "quotient": 367.0003995205753,
+    "difference": 2135
+  },
+  {
+    "index": 369,
+    "prime": 2521,
+    "timeToCalculate": 0,
+    "quotient": 368.00039666798887,
+    "difference": 2152
+  },
+  {
+    "index": 370,
+    "prime": 2531,
+    "timeToCalculate": 0,
+    "quotient": 369.00039510075067,
+    "difference": 2161
+  },
+  {
+    "index": 371,
+    "prime": 2539,
+    "timeToCalculate": 0,
+    "quotient": 370.00039385584876,
+    "difference": 2168
+  },
+  {
+    "index": 372,
+    "prime": 2543,
+    "timeToCalculate": 0,
+    "quotient": 371.000393236335,
+    "difference": 2171
+  },
+  {
+    "index": 373,
+    "prime": 2549,
+    "timeToCalculate": 0,
+    "quotient": 372.0003923107101,
+    "difference": 2176
+  },
+  {
+    "index": 374,
+    "prime": 2551,
+    "timeToCalculate": 0,
+    "quotient": 373.000392003136,
+    "difference": 2177
+  },
+  {
+    "index": 375,
+    "prime": 2557,
+    "timeToCalculate": 0,
+    "quotient": 374.00039108330077,
+    "difference": 2182
+  },
+  {
+    "index": 376,
+    "prime": 2579,
+    "timeToCalculate": 0,
+    "quotient": 375.0003877471888,
+    "difference": 2203
+  },
+  {
+    "index": 377,
+    "prime": 2591,
+    "timeToCalculate": 0,
+    "quotient": 376.0003859513701,
+    "difference": 2214
+  },
+  {
+    "index": 378,
+    "prime": 2593,
+    "timeToCalculate": 0,
+    "quotient": 377.000385653683,
+    "difference": 2215
+  },
+  {
+    "index": 379,
+    "prime": 2609,
+    "timeToCalculate": 0,
+    "quotient": 378.0003832886163,
+    "difference": 2230
+  },
+  {
+    "index": 380,
+    "prime": 2617,
+    "timeToCalculate": 0,
+    "quotient": 379.00038211692777,
+    "difference": 2237
+  },
+  {
+    "index": 381,
+    "prime": 2621,
+    "timeToCalculate": 0,
+    "quotient": 380.00038153376573,
+    "difference": 2240
+  },
+  {
+    "index": 382,
+    "prime": 2633,
+    "timeToCalculate": 0,
+    "quotient": 381.00037979491077,
+    "difference": 2251
+  },
+  {
+    "index": 383,
+    "prime": 2647,
+    "timeToCalculate": 0,
+    "quotient": 382.00037778617303,
+    "difference": 2264
+  },
+  {
+    "index": 384,
+    "prime": 2657,
+    "timeToCalculate": 0,
+    "quotient": 383.0003763643207,
+    "difference": 2273
+  },
+  {
+    "index": 385,
+    "prime": 2659,
+    "timeToCalculate": 0,
+    "quotient": 384.0003760812335,
+    "difference": 2274
+  },
+  {
+    "index": 386,
+    "prime": 2663,
+    "timeToCalculate": 0,
+    "quotient": 385.00037551633494,
+    "difference": 2277
+  },
+  {
+    "index": 387,
+    "prime": 2671,
+    "timeToCalculate": 0,
+    "quotient": 386.0003743916136,
+    "difference": 2284
+  },
+  {
+    "index": 388,
+    "prime": 2677,
+    "timeToCalculate": 0,
+    "quotient": 387.0003735524841,
+    "difference": 2289
+  },
+  {
+    "index": 389,
+    "prime": 2683,
+    "timeToCalculate": 0,
+    "quotient": 388.0003727171077,
+    "difference": 2294
+  },
+  {
+    "index": 390,
+    "prime": 2687,
+    "timeToCalculate": 0,
+    "quotient": 389.00037216226275,
+    "difference": 2297
+  },
+  {
+    "index": 391,
+    "prime": 2689,
+    "timeToCalculate": 0,
+    "quotient": 390.0003718854593,
+    "difference": 2298
+  },
+  {
+    "index": 392,
+    "prime": 2693,
+    "timeToCalculate": 0,
+    "quotient": 391.00037133308575,
+    "difference": 2301
+  },
+  {
+    "index": 393,
+    "prime": 2699,
+    "timeToCalculate": 0,
+    "quotient": 392.0003705075954,
+    "difference": 2306
+  },
+  {
+    "index": 394,
+    "prime": 2707,
+    "timeToCalculate": 0,
+    "quotient": 393.0003694126339,
+    "difference": 2313
+  },
+  {
+    "index": 395,
+    "prime": 2711,
+    "timeToCalculate": 0,
+    "quotient": 394.0003688675765,
+    "difference": 2316
+  },
+  {
+    "index": 396,
+    "prime": 2713,
+    "timeToCalculate": 0,
+    "quotient": 395.00036859565057,
+    "difference": 2317
+  },
+  {
+    "index": 397,
+    "prime": 2719,
+    "timeToCalculate": 0,
+    "quotient": 396.0003677822729,
+    "difference": 2322
+  },
+  {
+    "index": 398,
+    "prime": 2729,
+    "timeToCalculate": 0,
+    "quotient": 397.0003664345914,
+    "difference": 2331
+  },
+  {
+    "index": 399,
+    "prime": 2731,
+    "timeToCalculate": 0,
+    "quotient": 398.0003661662395,
+    "difference": 2332
+  },
+  {
+    "index": 400,
+    "prime": 2741,
+    "timeToCalculate": 0,
+    "quotient": 399.0003648303539,
+    "difference": 2341
+  },
+  {
+    "index": 401,
+    "prime": 2749,
+    "timeToCalculate": 0,
+    "quotient": 400.0003637686431,
+    "difference": 2348
+  },
+  {
+    "index": 402,
+    "prime": 2753,
+    "timeToCalculate": 0,
+    "quotient": 401.0003632401017,
+    "difference": 2351
+  },
+  {
+    "index": 403,
+    "prime": 2767,
+    "timeToCalculate": 0,
+    "quotient": 402.0003614022407,
+    "difference": 2364
+  },
+  {
+    "index": 404,
+    "prime": 2777,
+    "timeToCalculate": 0,
+    "quotient": 403.00036010082823,
+    "difference": 2373
+  },
+  {
+    "index": 405,
+    "prime": 2789,
+    "timeToCalculate": 0,
+    "quotient": 404.0003585514521,
+    "difference": 2384
+  },
+  {
+    "index": 406,
+    "prime": 2791,
+    "timeToCalculate": 0,
+    "quotient": 405.0003582945181,
+    "difference": 2385
+  },
+  {
+    "index": 407,
+    "prime": 2797,
+    "timeToCalculate": 0,
+    "quotient": 406.0003575259206,
+    "difference": 2390
+  },
+  {
+    "index": 408,
+    "prime": 2801,
+    "timeToCalculate": 0,
+    "quotient": 407.00035701535165,
+    "difference": 2393
+  },
+  {
+    "index": 409,
+    "prime": 2803,
+    "timeToCalculate": 0,
+    "quotient": 408.0003567606136,
+    "difference": 2394
+  },
+  {
+    "index": 410,
+    "prime": 2819,
+    "timeToCalculate": 0,
+    "quotient": 409.0003547357219,
+    "difference": 2409
+  },
+  {
+    "index": 411,
+    "prime": 2833,
+    "timeToCalculate": 0,
+    "quotient": 410.0003529827039,
+    "difference": 2422
+  },
+  {
+    "index": 412,
+    "prime": 2837,
+    "timeToCalculate": 0,
+    "quotient": 411.0003524850194,
+    "difference": 2425
+  },
+  {
+    "index": 413,
+    "prime": 2843,
+    "timeToCalculate": 0,
+    "quotient": 412.00035174111855,
+    "difference": 2430
+  },
+  {
+    "index": 414,
+    "prime": 2851,
+    "timeToCalculate": 0,
+    "quotient": 413.00035075412137,
+    "difference": 2437
+  },
+  {
+    "index": 415,
+    "prime": 2857,
+    "timeToCalculate": 0,
+    "quotient": 414.00035001750086,
+    "difference": 2442
+  },
+  {
+    "index": 416,
+    "prime": 2861,
+    "timeToCalculate": 0,
+    "quotient": 415.000349528137,
+    "difference": 2445
+  },
+  {
+    "index": 417,
+    "prime": 2879,
+    "timeToCalculate": 0,
+    "quotient": 416.00034734282735,
+    "difference": 2462
+  },
+  {
+    "index": 418,
+    "prime": 2887,
+    "timeToCalculate": 0,
+    "quotient": 417.0003463803256,
+    "difference": 2469
+  },
+  {
+    "index": 419,
+    "prime": 2897,
+    "timeToCalculate": 0,
+    "quotient": 418.0003451846738,
+    "difference": 2478
+  },
+  {
+    "index": 420,
+    "prime": 2903,
+    "timeToCalculate": 0,
+    "quotient": 419.00034447123664,
+    "difference": 2483
+  },
+  {
+    "index": 421,
+    "prime": 2909,
+    "timeToCalculate": 0,
+    "quotient": 420.0003437607425,
+    "difference": 2488
+  },
+  {
+    "index": 422,
+    "prime": 2917,
+    "timeToCalculate": 0,
+    "quotient": 421.00034281796366,
+    "difference": 2495
+  },
+  {
+    "index": 423,
+    "prime": 2927,
+    "timeToCalculate": 0,
+    "quotient": 422.0003416467373,
+    "difference": 2504
+  },
+  {
+    "index": 424,
+    "prime": 2939,
+    "timeToCalculate": 0,
+    "quotient": 423.0003402517863,
+    "difference": 2515
+  },
+  {
+    "index": 425,
+    "prime": 2953,
+    "timeToCalculate": 0,
+    "quotient": 424.00033863867253,
+    "difference": 2528
+  },
+  {
+    "index": 426,
+    "prime": 2957,
+    "timeToCalculate": 0,
+    "quotient": 425.0003381805884,
+    "difference": 2531
+  },
+  {
+    "index": 427,
+    "prime": 2963,
+    "timeToCalculate": 0,
+    "quotient": 426.0003374957813,
+    "difference": 2536
+  },
+  {
+    "index": 428,
+    "prime": 2969,
+    "timeToCalculate": 0,
+    "quotient": 427.000336813742,
+    "difference": 2541
+  },
+  {
+    "index": 429,
+    "prime": 2971,
+    "timeToCalculate": 0,
+    "quotient": 428.0003365870077,
+    "difference": 2542
+  },
+  {
+    "index": 430,
+    "prime": 2999,
+    "timeToCalculate": 0,
+    "quotient": 429.0003334444815,
+    "difference": 2569
+  },
+  {
+    "index": 431,
+    "prime": 3001,
+    "timeToCalculate": 0,
+    "quotient": 430.00033322225926,
+    "difference": 2570
+  },
+  {
+    "index": 432,
+    "prime": 3011,
+    "timeToCalculate": 0,
+    "quotient": 431.0003321155762,
+    "difference": 2579
+  },
+  {
+    "index": 433,
+    "prime": 3019,
+    "timeToCalculate": 0,
+    "quotient": 432.00033123550844,
+    "difference": 2586
+  },
+  {
+    "index": 434,
+    "prime": 3023,
+    "timeToCalculate": 0,
+    "quotient": 433.0003307972213,
+    "difference": 2589
+  },
+  {
+    "index": 435,
+    "prime": 3037,
+    "timeToCalculate": 0,
+    "quotient": 434.0003292723082,
+    "difference": 2602
+  },
+  {
+    "index": 436,
+    "prime": 3041,
+    "timeToCalculate": 0,
+    "quotient": 435.0003288391976,
+    "difference": 2605
+  },
+  {
+    "index": 437,
+    "prime": 3049,
+    "timeToCalculate": 0,
+    "quotient": 436.0003279763857,
+    "difference": 2612
+  },
+  {
+    "index": 438,
+    "prime": 3061,
+    "timeToCalculate": 0,
+    "quotient": 437.000326690624,
+    "difference": 2623
+  },
+  {
+    "index": 439,
+    "prime": 3067,
+    "timeToCalculate": 0,
+    "quotient": 438.00032605151614,
+    "difference": 2628
+  },
+  {
+    "index": 440,
+    "prime": 3079,
+    "timeToCalculate": 0,
+    "quotient": 439.000324780773,
+    "difference": 2639
+  },
+  {
+    "index": 441,
+    "prime": 3083,
+    "timeToCalculate": 0,
+    "quotient": 440.0003243593902,
+    "difference": 2642
+  },
+  {
+    "index": 442,
+    "prime": 3089,
+    "timeToCalculate": 0,
+    "quotient": 441.00032372936226,
+    "difference": 2647
+  },
+  {
+    "index": 443,
+    "prime": 3109,
+    "timeToCalculate": 0,
+    "quotient": 442.00032164683176,
+    "difference": 2666
+  },
+  {
+    "index": 444,
+    "prime": 3119,
+    "timeToCalculate": 0,
+    "quotient": 443.0003206155819,
+    "difference": 2675
+  },
+  {
+    "index": 445,
+    "prime": 3121,
+    "timeToCalculate": 0,
+    "quotient": 444.00032041012497,
+    "difference": 2676
+  },
+  {
+    "index": 446,
+    "prime": 3137,
+    "timeToCalculate": 0,
+    "quotient": 445.00031877590055,
+    "difference": 2691
+  },
+  {
+    "index": 447,
+    "prime": 3163,
+    "timeToCalculate": 0,
+    "quotient": 446.00031615554855,
+    "difference": 2716
+  },
+  {
+    "index": 448,
+    "prime": 3167,
+    "timeToCalculate": 0,
+    "quotient": 447.0003157562362,
+    "difference": 2719
+  },
+  {
+    "index": 449,
+    "prime": 3169,
+    "timeToCalculate": 0,
+    "quotient": 448.000315556958,
+    "difference": 2720
+  },
+  {
+    "index": 450,
+    "prime": 3181,
+    "timeToCalculate": 0,
+    "quotient": 449.0003143665514,
+    "difference": 2731
+  },
+  {
+    "index": 451,
+    "prime": 3187,
+    "timeToCalculate": 0,
+    "quotient": 450.00031377470975,
+    "difference": 2736
+  },
+  {
+    "index": 452,
+    "prime": 3191,
+    "timeToCalculate": 0,
+    "quotient": 451.0003133813851,
+    "difference": 2739
+  },
+  {
+    "index": 453,
+    "prime": 3203,
+    "timeToCalculate": 0,
+    "quotient": 452.0003122073056,
+    "difference": 2750
+  },
+  {
+    "index": 454,
+    "prime": 3209,
+    "timeToCalculate": 0,
+    "quotient": 453.00031162355873,
+    "difference": 2755
+  },
+  {
+    "index": 455,
+    "prime": 3217,
+    "timeToCalculate": 0,
+    "quotient": 454.0003108486167,
+    "difference": 2762
+  },
+  {
+    "index": 456,
+    "prime": 3221,
+    "timeToCalculate": 0,
+    "quotient": 455.00031046258925,
+    "difference": 2765
+  },
+  {
+    "index": 457,
+    "prime": 3229,
+    "timeToCalculate": 0,
+    "quotient": 456.00030969340355,
+    "difference": 2772
+  },
+  {
+    "index": 458,
+    "prime": 3251,
+    "timeToCalculate": 0,
+    "quotient": 457.00030759766224,
+    "difference": 2793
+  },
+  {
+    "index": 459,
+    "prime": 3253,
+    "timeToCalculate": 0,
+    "quotient": 458.00030740854595,
+    "difference": 2794
+  },
+  {
+    "index": 460,
+    "prime": 3257,
+    "timeToCalculate": 0,
+    "quotient": 459.00030703101015,
+    "difference": 2797
+  },
+  {
+    "index": 461,
+    "prime": 3259,
+    "timeToCalculate": 0,
+    "quotient": 460.00030684258974,
+    "difference": 2798
+  },
+  {
+    "index": 462,
+    "prime": 3271,
+    "timeToCalculate": 0,
+    "quotient": 461.00030571690615,
+    "difference": 2809
+  },
+  {
+    "index": 463,
+    "prime": 3299,
+    "timeToCalculate": 0,
+    "quotient": 462.00030312215824,
+    "difference": 2836
+  },
+  {
+    "index": 464,
+    "prime": 3301,
+    "timeToCalculate": 0,
+    "quotient": 463.00030293850347,
+    "difference": 2837
+  },
+  {
+    "index": 465,
+    "prime": 3307,
+    "timeToCalculate": 0,
+    "quotient": 464.0003023888721,
+    "difference": 2842
+  },
+  {
+    "index": 466,
+    "prime": 3313,
+    "timeToCalculate": 0,
+    "quotient": 465.00030184123153,
+    "difference": 2847
+  },
+  {
+    "index": 467,
+    "prime": 3319,
+    "timeToCalculate": 0,
+    "quotient": 466.000301295571,
+    "difference": 2852
+  },
+  {
+    "index": 468,
+    "prime": 3323,
+    "timeToCalculate": 0,
+    "quotient": 467.00030093289195,
+    "difference": 2855
+  },
+  {
+    "index": 469,
+    "prime": 3329,
+    "timeToCalculate": 0,
+    "quotient": 468.0003003905077,
+    "difference": 2860
+  },
+  {
+    "index": 470,
+    "prime": 3331,
+    "timeToCalculate": 0,
+    "quotient": 469.0003002101471,
+    "difference": 2861
+  },
+  {
+    "index": 471,
+    "prime": 3343,
+    "timeToCalculate": 0,
+    "quotient": 470.0002991325157,
+    "difference": 2872
+  },
+  {
+    "index": 472,
+    "prime": 3347,
+    "timeToCalculate": 0,
+    "quotient": 471.00029877502243,
+    "difference": 2875
+  },
+  {
+    "index": 473,
+    "prime": 3359,
+    "timeToCalculate": 0,
+    "quotient": 472.0002977076511,
+    "difference": 2886
+  },
+  {
+    "index": 474,
+    "prime": 3361,
+    "timeToCalculate": 0,
+    "quotient": 473.0002975304969,
+    "difference": 2887
+  },
+  {
+    "index": 475,
+    "prime": 3371,
+    "timeToCalculate": 0,
+    "quotient": 474.00029664787894,
+    "difference": 2896
+  },
+  {
+    "index": 476,
+    "prime": 3373,
+    "timeToCalculate": 0,
+    "quotient": 475.0002964719834,
+    "difference": 2897
+  },
+  {
+    "index": 477,
+    "prime": 3389,
+    "timeToCalculate": 0,
+    "quotient": 476.0002950722927,
+    "difference": 2912
+  },
+  {
+    "index": 478,
+    "prime": 3391,
+    "timeToCalculate": 0,
+    "quotient": 477.0002948982601,
+    "difference": 2913
+  },
+  {
+    "index": 479,
+    "prime": 3407,
+    "timeToCalculate": 0,
+    "quotient": 478.00029351335485,
+    "difference": 2928
+  },
+  {
+    "index": 480,
+    "prime": 3413,
+    "timeToCalculate": 0,
+    "quotient": 479.00029299736303,
+    "difference": 2933
+  },
+  {
+    "index": 481,
+    "prime": 3433,
+    "timeToCalculate": 0,
+    "quotient": 480.00029129041656,
+    "difference": 2952
+  },
+  {
+    "index": 482,
+    "prime": 3449,
+    "timeToCalculate": 0,
+    "quotient": 481.0002899391128,
+    "difference": 2967
+  },
+  {
+    "index": 483,
+    "prime": 3457,
+    "timeToCalculate": 0,
+    "quotient": 482.00028926815156,
+    "difference": 2974
+  },
+  {
+    "index": 484,
+    "prime": 3461,
+    "timeToCalculate": 0,
+    "quotient": 483.00028893383416,
+    "difference": 2977
+  },
+  {
+    "index": 485,
+    "prime": 3463,
+    "timeToCalculate": 0,
+    "quotient": 484.00028876696507,
+    "difference": 2978
+  },
+  {
+    "index": 486,
+    "prime": 3467,
+    "timeToCalculate": 0,
+    "quotient": 485.0002884338044,
+    "difference": 2981
+  },
+  {
+    "index": 487,
+    "prime": 3469,
+    "timeToCalculate": 0,
+    "quotient": 486.00028826751225,
+    "difference": 2982
+  },
+  {
+    "index": 488,
+    "prime": 3491,
+    "timeToCalculate": 0,
+    "quotient": 487.00028645087366,
+    "difference": 3003
+  },
+  {
+    "index": 489,
+    "prime": 3499,
+    "timeToCalculate": 0,
+    "quotient": 488.0002857959417,
+    "difference": 3010
+  },
+  {
+    "index": 490,
+    "prime": 3511,
+    "timeToCalculate": 0,
+    "quotient": 489.00028481913984,
+    "difference": 3021
+  },
+  {
+    "index": 491,
+    "prime": 3517,
+    "timeToCalculate": 0,
+    "quotient": 490.00028433323854,
+    "difference": 3026
+  },
+  {
+    "index": 492,
+    "prime": 3527,
+    "timeToCalculate": 0,
+    "quotient": 491.0002835270768,
+    "difference": 3035
+  },
+  {
+    "index": 493,
+    "prime": 3529,
+    "timeToCalculate": 0,
+    "quotient": 492.00028336639275,
+    "difference": 3036
+  },
+  {
+    "index": 494,
+    "prime": 3533,
+    "timeToCalculate": 0,
+    "quotient": 493.0002830455703,
+    "difference": 3039
+  },
+  {
+    "index": 495,
+    "prime": 3539,
+    "timeToCalculate": 0,
+    "quotient": 494.0002825656965,
+    "difference": 3044
+  },
+  {
+    "index": 496,
+    "prime": 3541,
+    "timeToCalculate": 0,
+    "quotient": 495.0002824061,
+    "difference": 3045
+  },
+  {
+    "index": 497,
+    "prime": 3547,
+    "timeToCalculate": 0,
+    "quotient": 496.00028192839017,
+    "difference": 3050
+  },
+  {
+    "index": 498,
+    "prime": 3557,
+    "timeToCalculate": 0,
+    "quotient": 497.0002811357886,
+    "difference": 3059
+  },
+  {
+    "index": 499,
+    "prime": 3559,
+    "timeToCalculate": 0,
+    "quotient": 498.00028097780273,
+    "difference": 3060
+  },
+  {
+    "index": 500,
+    "prime": 3571,
+    "timeToCalculate": 0,
+    "quotient": 499.00028003360404,
+    "difference": 3071
+  },
+  {
+    "index": 501,
+    "prime": 3581,
+    "timeToCalculate": 0,
+    "quotient": 500.0002792516057,
+    "difference": 3080
+  },
+  {
+    "index": 502,
+    "prime": 3583,
+    "timeToCalculate": 0,
+    "quotient": 501.0002790957298,
+    "difference": 3081
+  },
+  {
+    "index": 503,
+    "prime": 3593,
+    "timeToCalculate": 0,
+    "quotient": 502.0002783189535,
+    "difference": 3090
+  },
+  {
+    "index": 504,
+    "prime": 3607,
+    "timeToCalculate": 0,
+    "quotient": 503.0002772387025,
+    "difference": 3103
+  },
+  {
+    "index": 505,
+    "prime": 3613,
+    "timeToCalculate": 0,
+    "quotient": 504.0002767783006,
+    "difference": 3108
+  },
+  {
+    "index": 506,
+    "prime": 3617,
+    "timeToCalculate": 0,
+    "quotient": 505.0002764722145,
+    "difference": 3111
+  },
+  {
+    "index": 507,
+    "prime": 3623,
+    "timeToCalculate": 0,
+    "quotient": 506.0002760143527,
+    "difference": 3116
+  },
+  {
+    "index": 508,
+    "prime": 3631,
+    "timeToCalculate": 0,
+    "quotient": 507.0002754062242,
+    "difference": 3123
+  },
+  {
+    "index": 509,
+    "prime": 3637,
+    "timeToCalculate": 0,
+    "quotient": 508.0002749518834,
+    "difference": 3128
+  },
+  {
+    "index": 510,
+    "prime": 3643,
+    "timeToCalculate": 0,
+    "quotient": 509.0002744990393,
+    "difference": 3133
+  },
+  {
+    "index": 511,
+    "prime": 3659,
+    "timeToCalculate": 0,
+    "quotient": 510.0002732987155,
+    "difference": 3148
+  },
+  {
+    "index": 512,
+    "prime": 3671,
+    "timeToCalculate": 0,
+    "quotient": 511.00027240533916,
+    "difference": 3159
+  },
+  {
+    "index": 513,
+    "prime": 3673,
+    "timeToCalculate": 0,
+    "quotient": 512.0002722570106,
+    "difference": 3160
+  },
+  {
+    "index": 514,
+    "prime": 3677,
+    "timeToCalculate": 0,
+    "quotient": 513.0002719608376,
+    "difference": 3163
+  },
+  {
+    "index": 515,
+    "prime": 3691,
+    "timeToCalculate": 0,
+    "quotient": 514.0002709292875,
+    "difference": 3176
+  },
+  {
+    "index": 516,
+    "prime": 3697,
+    "timeToCalculate": 0,
+    "quotient": 515.0002704895861,
+    "difference": 3181
+  },
+  {
+    "index": 517,
+    "prime": 3701,
+    "timeToCalculate": 0,
+    "quotient": 516.0002701972439,
+    "difference": 3184
+  },
+  {
+    "index": 518,
+    "prime": 3709,
+    "timeToCalculate": 0,
+    "quotient": 517.0002696144513,
+    "difference": 3191
+  },
+  {
+    "index": 519,
+    "prime": 3719,
+    "timeToCalculate": 0,
+    "quotient": 518.0002688894864,
+    "difference": 3200
+  },
+  {
+    "index": 520,
+    "prime": 3727,
+    "timeToCalculate": 0,
+    "quotient": 519.0002683123155,
+    "difference": 3207
+  },
+  {
+    "index": 521,
+    "prime": 3733,
+    "timeToCalculate": 0,
+    "quotient": 520.0002678810608,
+    "difference": 3212
+  },
+  {
+    "index": 522,
+    "prime": 3739,
+    "timeToCalculate": 0,
+    "quotient": 521.0002674511902,
+    "difference": 3217
+  },
+  {
+    "index": 523,
+    "prime": 3761,
+    "timeToCalculate": 0,
+    "quotient": 522.0002658867322,
+    "difference": 3238
+  },
+  {
+    "index": 524,
+    "prime": 3767,
+    "timeToCalculate": 0,
+    "quotient": 523.0002654632333,
+    "difference": 3243
+  },
+  {
+    "index": 525,
+    "prime": 3769,
+    "timeToCalculate": 0,
+    "quotient": 524.0002653223667,
+    "difference": 3244
+  },
+  {
+    "index": 526,
+    "prime": 3779,
+    "timeToCalculate": 0,
+    "quotient": 525.00026462027,
+    "difference": 3253
+  },
+  {
+    "index": 527,
+    "prime": 3793,
+    "timeToCalculate": 0,
+    "quotient": 526.0002636435539,
+    "difference": 3266
+  },
+  {
+    "index": 528,
+    "prime": 3797,
+    "timeToCalculate": 0,
+    "quotient": 527.0002633658152,
+    "difference": 3269
+  },
+  {
+    "index": 529,
+    "prime": 3803,
+    "timeToCalculate": 0,
+    "quotient": 528.0002629503024,
+    "difference": 3274
+  },
+  {
+    "index": 530,
+    "prime": 3821,
+    "timeToCalculate": 0,
+    "quotient": 529.0002617115938,
+    "difference": 3291
+  },
+  {
+    "index": 531,
+    "prime": 3823,
+    "timeToCalculate": 0,
+    "quotient": 530.0002615746796,
+    "difference": 3292
+  },
+  {
+    "index": 532,
+    "prime": 3833,
+    "timeToCalculate": 0,
+    "quotient": 531.0002608922515,
+    "difference": 3301
+  },
+  {
+    "index": 533,
+    "prime": 3847,
+    "timeToCalculate": 0,
+    "quotient": 532.0002599428126,
+    "difference": 3314
+  },
+  {
+    "index": 534,
+    "prime": 3851,
+    "timeToCalculate": 0,
+    "quotient": 533.0002596728123,
+    "difference": 3317
+  },
+  {
+    "index": 535,
+    "prime": 3853,
+    "timeToCalculate": 0,
+    "quotient": 534.0002595380223,
+    "difference": 3318
+  },
+  {
+    "index": 536,
+    "prime": 3863,
+    "timeToCalculate": 0,
+    "quotient": 535.0002588661662,
+    "difference": 3327
+  },
+  {
+    "index": 537,
+    "prime": 3877,
+    "timeToCalculate": 0,
+    "quotient": 536.0002579313903,
+    "difference": 3340
+  },
+  {
+    "index": 538,
+    "prime": 3881,
+    "timeToCalculate": 0,
+    "quotient": 537.0002576655501,
+    "difference": 3343
+  },
+  {
+    "index": 539,
+    "prime": 3889,
+    "timeToCalculate": 0,
+    "quotient": 538.0002571355104,
+    "difference": 3350
+  },
+  {
+    "index": 540,
+    "prime": 3907,
+    "timeToCalculate": 0,
+    "quotient": 539.0002559508574,
+    "difference": 3367
+  },
+  {
+    "index": 541,
+    "prime": 3911,
+    "timeToCalculate": 0,
+    "quotient": 540.0002556890821,
+    "difference": 3370
+  },
+  {
+    "index": 542,
+    "prime": 3917,
+    "timeToCalculate": 0,
+    "quotient": 541.0002552974215,
+    "difference": 3375
+  },
+  {
+    "index": 543,
+    "prime": 3919,
+    "timeToCalculate": 0,
+    "quotient": 542.0002551671345,
+    "difference": 3376
+  },
+  {
+    "index": 544,
+    "prime": 3923,
+    "timeToCalculate": 0,
+    "quotient": 543.000254906959,
+    "difference": 3379
+  },
+  {
+    "index": 545,
+    "prime": 3929,
+    "timeToCalculate": 0,
+    "quotient": 544.000254517689,
+    "difference": 3384
+  },
+  {
+    "index": 546,
+    "prime": 3931,
+    "timeToCalculate": 0,
+    "quotient": 545.0002543881964,
+    "difference": 3385
+  },
+  {
+    "index": 547,
+    "prime": 3943,
+    "timeToCalculate": 0,
+    "quotient": 546.0002536139995,
+    "difference": 3396
+  },
+  {
+    "index": 548,
+    "prime": 3947,
+    "timeToCalculate": 0,
+    "quotient": 547.00025335698,
+    "difference": 3399
+  },
+  {
+    "index": 549,
+    "prime": 3967,
+    "timeToCalculate": 0,
+    "quotient": 548.0002520796571,
+    "difference": 3418
+  },
+  {
+    "index": 550,
+    "prime": 3989,
+    "timeToCalculate": 0,
+    "quotient": 549.0002506893958,
+    "difference": 3439
+  },
+  {
+    "index": 551,
+    "prime": 4001,
+    "timeToCalculate": 0,
+    "quotient": 550.0002499375156,
+    "difference": 3450
+  },
+  {
+    "index": 552,
+    "prime": 4003,
+    "timeToCalculate": 0,
+    "quotient": 551.0002498126405,
+    "difference": 3451
+  },
+  {
+    "index": 553,
+    "prime": 4007,
+    "timeToCalculate": 0,
+    "quotient": 552.0002495632643,
+    "difference": 3454
+  },
+  {
+    "index": 554,
+    "prime": 4013,
+    "timeToCalculate": 0,
+    "quotient": 553.0002491901321,
+    "difference": 3459
+  },
+  {
+    "index": 555,
+    "prime": 4019,
+    "timeToCalculate": 0,
+    "quotient": 554.000248818114,
+    "difference": 3464
+  },
+  {
+    "index": 556,
+    "prime": 4021,
+    "timeToCalculate": 0,
+    "quotient": 555.0002486943546,
+    "difference": 3465
+  },
+  {
+    "index": 557,
+    "prime": 4027,
+    "timeToCalculate": 0,
+    "quotient": 556.0002483238143,
+    "difference": 3470
+  },
+  {
+    "index": 558,
+    "prime": 4049,
+    "timeToCalculate": 0,
+    "quotient": 557.0002469745616,
+    "difference": 3491
+  },
+  {
+    "index": 559,
+    "prime": 4051,
+    "timeToCalculate": 0,
+    "quotient": 558.000246852629,
+    "difference": 3492
+  },
+  {
+    "index": 560,
+    "prime": 4057,
+    "timeToCalculate": 0,
+    "quotient": 559.0002464875524,
+    "difference": 3497
+  },
+  {
+    "index": 561,
+    "prime": 4073,
+    "timeToCalculate": 0,
+    "quotient": 560.0002455192732,
+    "difference": 3512
+  },
+  {
+    "index": 562,
+    "prime": 4079,
+    "timeToCalculate": 0,
+    "quotient": 561.000245158127,
+    "difference": 3517
+  },
+  {
+    "index": 563,
+    "prime": 4091,
+    "timeToCalculate": 0,
+    "quotient": 562.0002444390125,
+    "difference": 3528
+  },
+  {
+    "index": 564,
+    "prime": 4093,
+    "timeToCalculate": 0,
+    "quotient": 563.00024431957,
+    "difference": 3529
+  },
+  {
+    "index": 565,
+    "prime": 4099,
+    "timeToCalculate": 0,
+    "quotient": 564.0002439619419,
+    "difference": 3534
+  },
+  {
+    "index": 566,
+    "prime": 4111,
+    "timeToCalculate": 0,
+    "quotient": 565.0002432498176,
+    "difference": 3545
+  },
+  {
+    "index": 567,
+    "prime": 4127,
+    "timeToCalculate": 0,
+    "quotient": 566.0002423067604,
+    "difference": 3560
+  },
+  {
+    "index": 568,
+    "prime": 4129,
+    "timeToCalculate": 0,
+    "quotient": 567.0002421893921,
+    "difference": 3561
+  },
+  {
+    "index": 569,
+    "prime": 4133,
+    "timeToCalculate": 0,
+    "quotient": 568.0002419549963,
+    "difference": 3564
+  },
+  {
+    "index": 570,
+    "prime": 4139,
+    "timeToCalculate": 0,
+    "quotient": 569.0002416042522,
+    "difference": 3569
+  },
+  {
+    "index": 571,
+    "prime": 4153,
+    "timeToCalculate": 0,
+    "quotient": 570.0002407897905,
+    "difference": 3582
+  },
+  {
+    "index": 572,
+    "prime": 4157,
+    "timeToCalculate": 0,
+    "quotient": 571.0002405580948,
+    "difference": 3585
+  },
+  {
+    "index": 573,
+    "prime": 4159,
+    "timeToCalculate": 0,
+    "quotient": 572.000240442414,
+    "difference": 3586
+  },
+  {
+    "index": 574,
+    "prime": 4177,
+    "timeToCalculate": 0,
+    "quotient": 573.0002394062725,
+    "difference": 3603
+  },
+  {
+    "index": 575,
+    "prime": 4201,
+    "timeToCalculate": 0,
+    "quotient": 574.0002380385622,
+    "difference": 3626
+  },
+  {
+    "index": 576,
+    "prime": 4211,
+    "timeToCalculate": 0,
+    "quotient": 575.0002374732843,
+    "difference": 3635
+  },
+  {
+    "index": 577,
+    "prime": 4217,
+    "timeToCalculate": 0,
+    "quotient": 576.0002371354043,
+    "difference": 3640
+  },
+  {
+    "index": 578,
+    "prime": 4219,
+    "timeToCalculate": 0,
+    "quotient": 577.0002370229912,
+    "difference": 3641
+  },
+  {
+    "index": 579,
+    "prime": 4229,
+    "timeToCalculate": 0,
+    "quotient": 578.0002364625207,
+    "difference": 3650
+  },
+  {
+    "index": 580,
+    "prime": 4231,
+    "timeToCalculate": 0,
+    "quotient": 579.0002363507446,
+    "difference": 3651
+  },
+  {
+    "index": 581,
+    "prime": 4241,
+    "timeToCalculate": 0,
+    "quotient": 580.000235793445,
+    "difference": 3660
+  },
+  {
+    "index": 582,
+    "prime": 4243,
+    "timeToCalculate": 0,
+    "quotient": 581.0002356823003,
+    "difference": 3661
+  },
+  {
+    "index": 583,
+    "prime": 4253,
+    "timeToCalculate": 0,
+    "quotient": 582.0002351281448,
+    "difference": 3670
+  },
+  {
+    "index": 584,
+    "prime": 4259,
+    "timeToCalculate": 0,
+    "quotient": 583.0002347969007,
+    "difference": 3675
+  },
+  {
+    "index": 585,
+    "prime": 4261,
+    "timeToCalculate": 0,
+    "quotient": 584.0002346866933,
+    "difference": 3676
+  },
+  {
+    "index": 586,
+    "prime": 4271,
+    "timeToCalculate": 0,
+    "quotient": 585.0002341372044,
+    "difference": 3685
+  },
+  {
+    "index": 587,
+    "prime": 4273,
+    "timeToCalculate": 0,
+    "quotient": 586.0002340276153,
+    "difference": 3686
+  },
+  {
+    "index": 588,
+    "prime": 4283,
+    "timeToCalculate": 0,
+    "quotient": 587.0002334812048,
+    "difference": 3695
+  },
+  {
+    "index": 589,
+    "prime": 4289,
+    "timeToCalculate": 0,
+    "quotient": 588.0002331545815,
+    "difference": 3700
+  },
+  {
+    "index": 590,
+    "prime": 4297,
+    "timeToCalculate": 0,
+    "quotient": 589.0002327205027,
+    "difference": 3707
+  },
+  {
+    "index": 591,
+    "prime": 4327,
+    "timeToCalculate": 0,
+    "quotient": 590.0002311070025,
+    "difference": 3736
+  },
+  {
+    "index": 592,
+    "prime": 4337,
+    "timeToCalculate": 0,
+    "quotient": 591.0002305741295,
+    "difference": 3745
+  },
+  {
+    "index": 593,
+    "prime": 4339,
+    "timeToCalculate": 0,
+    "quotient": 592.0002304678497,
+    "difference": 3746
+  },
+  {
+    "index": 594,
+    "prime": 4349,
+    "timeToCalculate": 0,
+    "quotient": 593.0002299379167,
+    "difference": 3755
+  },
+  {
+    "index": 595,
+    "prime": 4357,
+    "timeToCalculate": 0,
+    "quotient": 594.0002295157218,
+    "difference": 3762
+  },
+  {
+    "index": 596,
+    "prime": 4363,
+    "timeToCalculate": 0,
+    "quotient": 595.0002292000917,
+    "difference": 3767
+  },
+  {
+    "index": 597,
+    "prime": 4373,
+    "timeToCalculate": 0,
+    "quotient": 596.0002286759661,
+    "difference": 3776
+  },
+  {
+    "index": 598,
+    "prime": 4391,
+    "timeToCalculate": 0,
+    "quotient": 597.0002277385562,
+    "difference": 3793
+  },
+  {
+    "index": 599,
+    "prime": 4397,
+    "timeToCalculate": 0,
+    "quotient": 598.0002274277916,
+    "difference": 3798
+  },
+  {
+    "index": 600,
+    "prime": 4409,
+    "timeToCalculate": 0,
+    "quotient": 599.0002268088002,
+    "difference": 3809
+  },
+  {
+    "index": 601,
+    "prime": 4421,
+    "timeToCalculate": 0,
+    "quotient": 600.0002261931689,
+    "difference": 3820
+  },
+  {
+    "index": 602,
+    "prime": 4423,
+    "timeToCalculate": 0,
+    "quotient": 601.0002260908885,
+    "difference": 3821
+  },
+  {
+    "index": 603,
+    "prime": 4441,
+    "timeToCalculate": 0,
+    "quotient": 602.0002251745102,
+    "difference": 3838
+  },
+  {
+    "index": 604,
+    "prime": 4447,
+    "timeToCalculate": 0,
+    "quotient": 603.0002248706993,
+    "difference": 3843
+  },
+  {
+    "index": 605,
+    "prime": 4451,
+    "timeToCalculate": 0,
+    "quotient": 604.0002246686138,
+    "difference": 3846
+  },
+  {
+    "index": 606,
+    "prime": 4457,
+    "timeToCalculate": 0,
+    "quotient": 605.0002243661655,
+    "difference": 3851
+  },
+  {
+    "index": 607,
+    "prime": 4463,
+    "timeToCalculate": 0,
+    "quotient": 606.0002240645306,
+    "difference": 3856
+  },
+  {
+    "index": 608,
+    "prime": 4481,
+    "timeToCalculate": 0,
+    "quotient": 607.0002231644722,
+    "difference": 3873
+  },
+  {
+    "index": 609,
+    "prime": 4483,
+    "timeToCalculate": 0,
+    "quotient": 608.0002230649119,
+    "difference": 3874
+  },
+  {
+    "index": 610,
+    "prime": 4493,
+    "timeToCalculate": 0,
+    "quotient": 609.0002225684398,
+    "difference": 3883
+  },
+  {
+    "index": 611,
+    "prime": 4507,
+    "timeToCalculate": 0,
+    "quotient": 610.0002218770801,
+    "difference": 3896
+  },
+  {
+    "index": 612,
+    "prime": 4513,
+    "timeToCalculate": 0,
+    "quotient": 611.0002215820962,
+    "difference": 3901
+  },
+  {
+    "index": 613,
+    "prime": 4517,
+    "timeToCalculate": 0,
+    "quotient": 612.0002213858755,
+    "difference": 3904
+  },
+  {
+    "index": 614,
+    "prime": 4519,
+    "timeToCalculate": 0,
+    "quotient": 613.0002212878956,
+    "difference": 3905
+  },
+  {
+    "index": 615,
+    "prime": 4523,
+    "timeToCalculate": 0,
+    "quotient": 614.0002210921955,
+    "difference": 3908
+  },
+  {
+    "index": 616,
+    "prime": 4547,
+    "timeToCalculate": 0,
+    "quotient": 615.0002199252255,
+    "difference": 3931
+  },
+  {
+    "index": 617,
+    "prime": 4549,
+    "timeToCalculate": 0,
+    "quotient": 616.0002198285338,
+    "difference": 3932
+  },
+  {
+    "index": 618,
+    "prime": 4561,
+    "timeToCalculate": 0,
+    "quotient": 617.0002192501645,
+    "difference": 3943
+  },
+  {
+    "index": 619,
+    "prime": 4567,
+    "timeToCalculate": 0,
+    "quotient": 618.0002189621196,
+    "difference": 3948
+  },
+  {
+    "index": 620,
+    "prime": 4583,
+    "timeToCalculate": 0,
+    "quotient": 619.0002181976871,
+    "difference": 3963
+  },
+  {
+    "index": 621,
+    "prime": 4591,
+    "timeToCalculate": 0,
+    "quotient": 620.000217817469,
+    "difference": 3970
+  },
+  {
+    "index": 622,
+    "prime": 4597,
+    "timeToCalculate": 0,
+    "quotient": 621.0002175331738,
+    "difference": 3975
+  },
+  {
+    "index": 623,
+    "prime": 4603,
+    "timeToCalculate": 0,
+    "quotient": 622.0002172496198,
+    "difference": 3980
+  },
+  {
+    "index": 624,
+    "prime": 4621,
+    "timeToCalculate": 0,
+    "quotient": 623.0002164033759,
+    "difference": 3997
+  },
+  {
+    "index": 625,
+    "prime": 4637,
+    "timeToCalculate": 0,
+    "quotient": 624.0002156566745,
+    "difference": 4012
+  },
+  {
+    "index": 626,
+    "prime": 4639,
+    "timeToCalculate": 0,
+    "quotient": 625.000215563699,
+    "difference": 4013
+  },
+  {
+    "index": 627,
+    "prime": 4643,
+    "timeToCalculate": 0,
+    "quotient": 626.0002153779884,
+    "difference": 4016
+  },
+  {
+    "index": 628,
+    "prime": 4649,
+    "timeToCalculate": 0,
+    "quotient": 627.0002151000215,
+    "difference": 4021
+  },
+  {
+    "index": 629,
+    "prime": 4651,
+    "timeToCalculate": 0,
+    "quotient": 628.0002150075253,
+    "difference": 4022
+  },
+  {
+    "index": 630,
+    "prime": 4657,
+    "timeToCalculate": 0,
+    "quotient": 629.0002147305132,
+    "difference": 4027
+  },
+  {
+    "index": 631,
+    "prime": 4663,
+    "timeToCalculate": 0,
+    "quotient": 630.0002144542141,
+    "difference": 4032
+  },
+  {
+    "index": 632,
+    "prime": 4673,
+    "timeToCalculate": 0,
+    "quotient": 631.0002139952921,
+    "difference": 4041
+  },
+  {
+    "index": 633,
+    "prime": 4679,
+    "timeToCalculate": 0,
+    "quotient": 632.0002137208805,
+    "difference": 4046
+  },
+  {
+    "index": 634,
+    "prime": 4691,
+    "timeToCalculate": 0,
+    "quotient": 633.0002131741633,
+    "difference": 4057
+  },
+  {
+    "index": 635,
+    "prime": 4703,
+    "timeToCalculate": 0,
+    "quotient": 634.000212630236,
+    "difference": 4068
+  },
+  {
+    "index": 636,
+    "prime": 4721,
+    "timeToCalculate": 0,
+    "quotient": 635.0002118195298,
+    "difference": 4085
+  },
+  {
+    "index": 637,
+    "prime": 4723,
+    "timeToCalculate": 0,
+    "quotient": 636.0002117298327,
+    "difference": 4086
+  },
+  {
+    "index": 638,
+    "prime": 4729,
+    "timeToCalculate": 0,
+    "quotient": 637.0002114611968,
+    "difference": 4091
+  },
+  {
+    "index": 639,
+    "prime": 4733,
+    "timeToCalculate": 0,
+    "quotient": 638.0002112824847,
+    "difference": 4094
+  },
+  {
+    "index": 640,
+    "prime": 4751,
+    "timeToCalculate": 0,
+    "quotient": 639.0002104820038,
+    "difference": 4111
+  },
+  {
+    "index": 641,
+    "prime": 4759,
+    "timeToCalculate": 0,
+    "quotient": 640.0002101281782,
+    "difference": 4118
+  },
+  {
+    "index": 642,
+    "prime": 4783,
+    "timeToCalculate": 0,
+    "quotient": 641.000209073803,
+    "difference": 4141
+  },
+  {
+    "index": 643,
+    "prime": 4787,
+    "timeToCalculate": 0,
+    "quotient": 642.0002088991017,
+    "difference": 4144
+  },
+  {
+    "index": 644,
+    "prime": 4789,
+    "timeToCalculate": 0,
+    "quotient": 643.0002088118605,
+    "difference": 4145
+  },
+  {
+    "index": 645,
+    "prime": 4793,
+    "timeToCalculate": 0,
+    "quotient": 644.0002086375965,
+    "difference": 4148
+  },
+  {
+    "index": 646,
+    "prime": 4799,
+    "timeToCalculate": 0,
+    "quotient": 645.0002083767451,
+    "difference": 4153
+  },
+  {
+    "index": 647,
+    "prime": 4801,
+    "timeToCalculate": 0,
+    "quotient": 646.0002082899396,
+    "difference": 4154
+  },
+  {
+    "index": 648,
+    "prime": 4813,
+    "timeToCalculate": 0,
+    "quotient": 647.0002077706213,
+    "difference": 4165
+  },
+  {
+    "index": 649,
+    "prime": 4817,
+    "timeToCalculate": 0,
+    "quotient": 648.0002075980901,
+    "difference": 4168
+  },
+  {
+    "index": 650,
+    "prime": 4831,
+    "timeToCalculate": 0,
+    "quotient": 649.0002069964811,
+    "difference": 4181
+  },
+  {
+    "index": 651,
+    "prime": 4861,
+    "timeToCalculate": 0,
+    "quotient": 650.0002057189879,
+    "difference": 4210
+  },
+  {
+    "index": 652,
+    "prime": 4871,
+    "timeToCalculate": 0,
+    "quotient": 651.0002052966537,
+    "difference": 4219
+  },
+  {
+    "index": 653,
+    "prime": 4877,
+    "timeToCalculate": 0,
+    "quotient": 652.0002050440845,
+    "difference": 4224
+  },
+  {
+    "index": 654,
+    "prime": 4889,
+    "timeToCalculate": 0,
+    "quotient": 653.0002045408058,
+    "difference": 4235
+  },
+  {
+    "index": 655,
+    "prime": 4903,
+    "timeToCalculate": 0,
+    "quotient": 654.0002039567612,
+    "difference": 4248
+  },
+  {
+    "index": 656,
+    "prime": 4909,
+    "timeToCalculate": 0,
+    "quotient": 655.0002037074761,
+    "difference": 4253
+  },
+  {
+    "index": 657,
+    "prime": 4919,
+    "timeToCalculate": 0,
+    "quotient": 656.0002032933523,
+    "difference": 4262
+  },
+  {
+    "index": 658,
+    "prime": 4931,
+    "timeToCalculate": 0,
+    "quotient": 657.000202798621,
+    "difference": 4273
+  },
+  {
+    "index": 659,
+    "prime": 4933,
+    "timeToCalculate": 0,
+    "quotient": 658.0002027163997,
+    "difference": 4274
+  },
+  {
+    "index": 660,
+    "prime": 4937,
+    "timeToCalculate": 0,
+    "quotient": 659.0002025521571,
+    "difference": 4277
+  },
+  {
+    "index": 661,
+    "prime": 4943,
+    "timeToCalculate": 0,
+    "quotient": 660.0002023062917,
+    "difference": 4282
+  },
+  {
+    "index": 662,
+    "prime": 4951,
+    "timeToCalculate": 0,
+    "quotient": 661.0002019793981,
+    "difference": 4289
+  },
+  {
+    "index": 663,
+    "prime": 4957,
+    "timeToCalculate": 0,
+    "quotient": 662.0002017349203,
+    "difference": 4294
+  },
+  {
+    "index": 664,
+    "prime": 4967,
+    "timeToCalculate": 0,
+    "quotient": 663.0002013287699,
+    "difference": 4303
+  },
+  {
+    "index": 665,
+    "prime": 4969,
+    "timeToCalculate": 0,
+    "quotient": 664.000201247736,
+    "difference": 4304
+  },
+  {
+    "index": 666,
+    "prime": 4973,
+    "timeToCalculate": 0,
+    "quotient": 665.0002010858636,
+    "difference": 4307
+  },
+  {
+    "index": 667,
+    "prime": 4987,
+    "timeToCalculate": 0,
+    "quotient": 666.0002005213555,
+    "difference": 4320
+  },
+  {
+    "index": 668,
+    "prime": 4993,
+    "timeToCalculate": 0,
+    "quotient": 667.0002002803925,
+    "difference": 4325
+  },
+  {
+    "index": 669,
+    "prime": 4999,
+    "timeToCalculate": 0,
+    "quotient": 668.000200040008,
+    "difference": 4330
+  },
+  {
+    "index": 670,
+    "prime": 5003,
+    "timeToCalculate": 0,
+    "quotient": 669.0001998800719,
+    "difference": 4333
+  },
+  {
+    "index": 671,
+    "prime": 5009,
+    "timeToCalculate": 0,
+    "quotient": 670.0001996406469,
+    "difference": 4338
+  },
+  {
+    "index": 672,
+    "prime": 5011,
+    "timeToCalculate": 0,
+    "quotient": 671.0001995609658,
+    "difference": 4339
+  },
+  {
+    "index": 673,
+    "prime": 5021,
+    "timeToCalculate": 0,
+    "quotient": 672.0001991635132,
+    "difference": 4348
+  },
+  {
+    "index": 674,
+    "prime": 5023,
+    "timeToCalculate": 0,
+    "quotient": 673.0001990842126,
+    "difference": 4349
+  },
+  {
+    "index": 675,
+    "prime": 5039,
+    "timeToCalculate": 0,
+    "quotient": 674.0001984520738,
+    "difference": 4364
+  },
+  {
+    "index": 676,
+    "prime": 5051,
+    "timeToCalculate": 0,
+    "quotient": 675.0001979805979,
+    "difference": 4375
+  },
+  {
+    "index": 677,
+    "prime": 5059,
+    "timeToCalculate": 0,
+    "quotient": 676.0001976675233,
+    "difference": 4382
+  },
+  {
+    "index": 678,
+    "prime": 5077,
+    "timeToCalculate": 0,
+    "quotient": 677.0001969667127,
+    "difference": 4399
+  },
+  {
+    "index": 679,
+    "prime": 5081,
+    "timeToCalculate": 0,
+    "quotient": 678.0001968116512,
+    "difference": 4402
+  },
+  {
+    "index": 680,
+    "prime": 5087,
+    "timeToCalculate": 0,
+    "quotient": 679.0001965795165,
+    "difference": 4407
+  },
+  {
+    "index": 681,
+    "prime": 5099,
+    "timeToCalculate": 0,
+    "quotient": 680.0001961168857,
+    "difference": 4418
+  },
+  {
+    "index": 682,
+    "prime": 5101,
+    "timeToCalculate": 0,
+    "quotient": 681.0001960399921,
+    "difference": 4419
+  },
+  {
+    "index": 683,
+    "prime": 5107,
+    "timeToCalculate": 0,
+    "quotient": 682.000195809673,
+    "difference": 4424
+  },
+  {
+    "index": 684,
+    "prime": 5113,
+    "timeToCalculate": 0,
+    "quotient": 683.0001955798944,
+    "difference": 4429
+  },
+  {
+    "index": 685,
+    "prime": 5119,
+    "timeToCalculate": 0,
+    "quotient": 684.0001953506544,
+    "difference": 4434
+  },
+  {
+    "index": 686,
+    "prime": 5147,
+    "timeToCalculate": 0,
+    "quotient": 685.0001942879347,
+    "difference": 4461
+  },
+  {
+    "index": 687,
+    "prime": 5153,
+    "timeToCalculate": 0,
+    "quotient": 686.0001940617116,
+    "difference": 4466
+  },
+  {
+    "index": 688,
+    "prime": 5167,
+    "timeToCalculate": 0,
+    "quotient": 687.000193535901,
+    "difference": 4479
+  },
+  {
+    "index": 689,
+    "prime": 5171,
+    "timeToCalculate": 0,
+    "quotient": 688.0001933861922,
+    "difference": 4482
+  },
+  {
+    "index": 690,
+    "prime": 5179,
+    "timeToCalculate": 0,
+    "quotient": 689.0001930874686,
+    "difference": 4489
+  },
+  {
+    "index": 691,
+    "prime": 5189,
+    "timeToCalculate": 0,
+    "quotient": 690.0001927153594,
+    "difference": 4498
+  },
+  {
+    "index": 692,
+    "prime": 5197,
+    "timeToCalculate": 0,
+    "quotient": 691.0001924187031,
+    "difference": 4505
+  },
+  {
+    "index": 693,
+    "prime": 5209,
+    "timeToCalculate": 0,
+    "quotient": 692.0001919754271,
+    "difference": 4516
+  },
+  {
+    "index": 694,
+    "prime": 5227,
+    "timeToCalculate": 0,
+    "quotient": 693.0001913143294,
+    "difference": 4533
+  },
+  {
+    "index": 695,
+    "prime": 5231,
+    "timeToCalculate": 0,
+    "quotient": 694.0001911680367,
+    "difference": 4536
+  },
+  {
+    "index": 696,
+    "prime": 5233,
+    "timeToCalculate": 0,
+    "quotient": 695.0001910949742,
+    "difference": 4537
+  },
+  {
+    "index": 697,
+    "prime": 5237,
+    "timeToCalculate": 0,
+    "quotient": 696.0001909490167,
+    "difference": 4540
+  },
+  {
+    "index": 698,
+    "prime": 5261,
+    "timeToCalculate": 0,
+    "quotient": 697.000190077932,
+    "difference": 4563
+  },
+  {
+    "index": 699,
+    "prime": 5273,
+    "timeToCalculate": 0,
+    "quotient": 698.0001896453632,
+    "difference": 4574
+  },
+  {
+    "index": 700,
+    "prime": 5279,
+    "timeToCalculate": 0,
+    "quotient": 699.0001894298163,
+    "difference": 4579
+  },
+  {
+    "index": 701,
+    "prime": 5281,
+    "timeToCalculate": 0,
+    "quotient": 700.0001893580761,
+    "difference": 4580
+  },
+  {
+    "index": 702,
+    "prime": 5297,
+    "timeToCalculate": 0,
+    "quotient": 701.0001887861054,
+    "difference": 4595
+  },
+  {
+    "index": 703,
+    "prime": 5303,
+    "timeToCalculate": 0,
+    "quotient": 702.0001885725061,
+    "difference": 4600
+  },
+  {
+    "index": 704,
+    "prime": 5309,
+    "timeToCalculate": 0,
+    "quotient": 703.0001883593898,
+    "difference": 4605
+  },
+  {
+    "index": 705,
+    "prime": 5323,
+    "timeToCalculate": 0,
+    "quotient": 704.0001878639865,
+    "difference": 4618
+  },
+  {
+    "index": 706,
+    "prime": 5333,
+    "timeToCalculate": 0,
+    "quotient": 705.0001875117194,
+    "difference": 4627
+  },
+  {
+    "index": 707,
+    "prime": 5347,
+    "timeToCalculate": 0,
+    "quotient": 706.0001870207593,
+    "difference": 4640
+  },
+  {
+    "index": 708,
+    "prime": 5351,
+    "timeToCalculate": 0,
+    "quotient": 707.0001868809568,
+    "difference": 4643
+  },
+  {
+    "index": 709,
+    "prime": 5381,
+    "timeToCalculate": 0,
+    "quotient": 708.0001858390634,
+    "difference": 4672
+  },
+  {
+    "index": 710,
+    "prime": 5387,
+    "timeToCalculate": 0,
+    "quotient": 709.0001856320772,
+    "difference": 4677
+  },
+  {
+    "index": 711,
+    "prime": 5393,
+    "timeToCalculate": 0,
+    "quotient": 710.0001854255516,
+    "difference": 4682
+  },
+  {
+    "index": 712,
+    "prime": 5399,
+    "timeToCalculate": 0,
+    "quotient": 711.000185219485,
+    "difference": 4687
+  },
+  {
+    "index": 713,
+    "prime": 5407,
+    "timeToCalculate": 0,
+    "quotient": 712.0001849454411,
+    "difference": 4694
+  },
+  {
+    "index": 714,
+    "prime": 5413,
+    "timeToCalculate": 0,
+    "quotient": 713.0001847404396,
+    "difference": 4699
+  },
+  {
+    "index": 715,
+    "prime": 5417,
+    "timeToCalculate": 0,
+    "quotient": 714.0001846040244,
+    "difference": 4702
+  },
+  {
+    "index": 716,
+    "prime": 5419,
+    "timeToCalculate": 0,
+    "quotient": 715.0001845358922,
+    "difference": 4703
+  },
+  {
+    "index": 717,
+    "prime": 5431,
+    "timeToCalculate": 0,
+    "quotient": 716.0001841281533,
+    "difference": 4714
+  },
+  {
+    "index": 718,
+    "prime": 5437,
+    "timeToCalculate": 0,
+    "quotient": 717.0001839249586,
+    "difference": 4719
+  },
+  {
+    "index": 719,
+    "prime": 5441,
+    "timeToCalculate": 0,
+    "quotient": 718.0001837897445,
+    "difference": 4722
+  },
+  {
+    "index": 720,
+    "prime": 5443,
+    "timeToCalculate": 0,
+    "quotient": 719.000183722212,
+    "difference": 4723
+  },
+  {
+    "index": 721,
+    "prime": 5449,
+    "timeToCalculate": 0,
+    "quotient": 720.000183519912,
+    "difference": 4728
+  },
+  {
+    "index": 722,
+    "prime": 5471,
+    "timeToCalculate": 0,
+    "quotient": 721.0001827819411,
+    "difference": 4749
+  },
+  {
+    "index": 723,
+    "prime": 5477,
+    "timeToCalculate": 0,
+    "quotient": 722.0001825817053,
+    "difference": 4754
+  },
+  {
+    "index": 724,
+    "prime": 5479,
+    "timeToCalculate": 0,
+    "quotient": 723.0001825150575,
+    "difference": 4755
+  },
+  {
+    "index": 725,
+    "prime": 5483,
+    "timeToCalculate": 0,
+    "quotient": 724.0001823819077,
+    "difference": 4758
+  },
+  {
+    "index": 726,
+    "prime": 5501,
+    "timeToCalculate": 0,
+    "quotient": 725.0001817851299,
+    "difference": 4775
+  },
+  {
+    "index": 727,
+    "prime": 5503,
+    "timeToCalculate": 0,
+    "quotient": 726.0001817190623,
+    "difference": 4776
+  },
+  {
+    "index": 728,
+    "prime": 5507,
+    "timeToCalculate": 0,
+    "quotient": 727.000181587071,
+    "difference": 4779
+  },
+  {
+    "index": 729,
+    "prime": 5519,
+    "timeToCalculate": 0,
+    "quotient": 728.000181192245,
+    "difference": 4790
+  },
+  {
+    "index": 730,
+    "prime": 5521,
+    "timeToCalculate": 0,
+    "quotient": 729.0001811266075,
+    "difference": 4791
+  },
+  {
+    "index": 731,
+    "prime": 5527,
+    "timeToCalculate": 0,
+    "quotient": 730.00018092998,
+    "difference": 4796
+  },
+  {
+    "index": 732,
+    "prime": 5531,
+    "timeToCalculate": 0,
+    "quotient": 731.0001807991322,
+    "difference": 4799
+  },
+  {
+    "index": 733,
+    "prime": 5557,
+    "timeToCalculate": 0,
+    "quotient": 732.0001799532122,
+    "difference": 4824
+  },
+  {
+    "index": 734,
+    "prime": 5563,
+    "timeToCalculate": 0,
+    "quotient": 733.0001797591228,
+    "difference": 4829
+  },
+  {
+    "index": 735,
+    "prime": 5569,
+    "timeToCalculate": 0,
+    "quotient": 734.0001795654516,
+    "difference": 4834
+  },
+  {
+    "index": 736,
+    "prime": 5573,
+    "timeToCalculate": 0,
+    "quotient": 735.0001794365692,
+    "difference": 4837
+  },
+  {
+    "index": 737,
+    "prime": 5581,
+    "timeToCalculate": 0,
+    "quotient": 736.0001791793585,
+    "difference": 4844
+  },
+  {
+    "index": 738,
+    "prime": 5591,
+    "timeToCalculate": 0,
+    "quotient": 737.0001788588803,
+    "difference": 4853
+  },
+  {
+    "index": 739,
+    "prime": 5623,
+    "timeToCalculate": 0,
+    "quotient": 738.0001778410101,
+    "difference": 4884
+  },
+  {
+    "index": 740,
+    "prime": 5639,
+    "timeToCalculate": 0,
+    "quotient": 739.0001773364072,
+    "difference": 4899
+  },
+  {
+    "index": 741,
+    "prime": 5641,
+    "timeToCalculate": 0,
+    "quotient": 740.000177273533,
+    "difference": 4900
+  },
+  {
+    "index": 742,
+    "prime": 5647,
+    "timeToCalculate": 0,
+    "quotient": 741.0001770851779,
+    "difference": 4905
+  },
+  {
+    "index": 743,
+    "prime": 5651,
+    "timeToCalculate": 0,
+    "quotient": 742.0001769598301,
+    "difference": 4908
+  },
+  {
+    "index": 744,
+    "prime": 5653,
+    "timeToCalculate": 0,
+    "quotient": 743.0001768972227,
+    "difference": 4909
+  },
+  {
+    "index": 745,
+    "prime": 5657,
+    "timeToCalculate": 0,
+    "quotient": 744.0001767721407,
+    "difference": 4912
+  },
+  {
+    "index": 746,
+    "prime": 5659,
+    "timeToCalculate": 0,
+    "quotient": 745.000176709666,
+    "difference": 4913
+  },
+  {
+    "index": 747,
+    "prime": 5669,
+    "timeToCalculate": 0,
+    "quotient": 746.0001763979537,
+    "difference": 4922
+  },
+  {
+    "index": 748,
+    "prime": 5683,
+    "timeToCalculate": 0,
+    "quotient": 747.0001759633996,
+    "difference": 4935
+  },
+  {
+    "index": 749,
+    "prime": 5689,
+    "timeToCalculate": 0,
+    "quotient": 748.0001757778168,
+    "difference": 4940
+  },
+  {
+    "index": 750,
+    "prime": 5693,
+    "timeToCalculate": 0,
+    "quotient": 749.0001756543123,
+    "difference": 4943
+  },
+  {
+    "index": 751,
+    "prime": 5701,
+    "timeToCalculate": 0,
+    "quotient": 750.0001754078232,
+    "difference": 4950
+  },
+  {
+    "index": 752,
+    "prime": 5711,
+    "timeToCalculate": 0,
+    "quotient": 751.0001751006829,
+    "difference": 4959
+  },
+  {
+    "index": 753,
+    "prime": 5717,
+    "timeToCalculate": 0,
+    "quotient": 752.0001749169145,
+    "difference": 4964
+  },
+  {
+    "index": 754,
+    "prime": 5737,
+    "timeToCalculate": 0,
+    "quotient": 753.0001743071292,
+    "difference": 4983
+  },
+  {
+    "index": 755,
+    "prime": 5741,
+    "timeToCalculate": 0,
+    "quotient": 754.0001741856819,
+    "difference": 4986
+  },
+  {
+    "index": 756,
+    "prime": 5743,
+    "timeToCalculate": 0,
+    "quotient": 755.0001741250218,
+    "difference": 4987
+  },
+  {
+    "index": 757,
+    "prime": 5749,
+    "timeToCalculate": 0,
+    "quotient": 756.0001739432945,
+    "difference": 4992
+  },
+  {
+    "index": 758,
+    "prime": 5779,
+    "timeToCalculate": 0,
+    "quotient": 757.0001730403184,
+    "difference": 5021
+  },
+  {
+    "index": 759,
+    "prime": 5783,
+    "timeToCalculate": 0,
+    "quotient": 758.0001729206294,
+    "difference": 5024
+  },
+  {
+    "index": 760,
+    "prime": 5791,
+    "timeToCalculate": 0,
+    "quotient": 759.0001726817476,
+    "difference": 5031
+  },
+  {
+    "index": 761,
+    "prime": 5801,
+    "timeToCalculate": 0,
+    "quotient": 760.0001723840717,
+    "difference": 5040
+  },
+  {
+    "index": 762,
+    "prime": 5807,
+    "timeToCalculate": 0,
+    "quotient": 761.0001722059583,
+    "difference": 5045
+  },
+  {
+    "index": 763,
+    "prime": 5813,
+    "timeToCalculate": 0,
+    "quotient": 762.0001720282127,
+    "difference": 5050
+  },
+  {
+    "index": 764,
+    "prime": 5821,
+    "timeToCalculate": 0,
+    "quotient": 763.0001717917884,
+    "difference": 5057
+  },
+  {
+    "index": 765,
+    "prime": 5827,
+    "timeToCalculate": 0,
+    "quotient": 764.0001716148962,
+    "difference": 5062
+  },
+  {
+    "index": 766,
+    "prime": 5839,
+    "timeToCalculate": 0,
+    "quotient": 765.0001712622025,
+    "difference": 5073
+  },
+  {
+    "index": 767,
+    "prime": 5843,
+    "timeToCalculate": 0,
+    "quotient": 766.0001711449598,
+    "difference": 5076
+  },
+  {
+    "index": 768,
+    "prime": 5849,
+    "timeToCalculate": 0,
+    "quotient": 767.0001709693964,
+    "difference": 5081
+  },
+  {
+    "index": 769,
+    "prime": 5851,
+    "timeToCalculate": 0,
+    "quotient": 768.0001709109554,
+    "difference": 5082
+  },
+  {
+    "index": 770,
+    "prime": 5857,
+    "timeToCalculate": 0,
+    "quotient": 769.0001707358716,
+    "difference": 5087
+  },
+  {
+    "index": 771,
+    "prime": 5861,
+    "timeToCalculate": 0,
+    "quotient": 770.0001706193482,
+    "difference": 5090
+  },
+  {
+    "index": 772,
+    "prime": 5867,
+    "timeToCalculate": 0,
+    "quotient": 771.000170444861,
+    "difference": 5095
+  },
+  {
+    "index": 773,
+    "prime": 5869,
+    "timeToCalculate": 0,
+    "quotient": 772.000170386778,
+    "difference": 5096
+  },
+  {
+    "index": 774,
+    "prime": 5879,
+    "timeToCalculate": 0,
+    "quotient": 773.0001700969552,
+    "difference": 5105
+  },
+  {
+    "index": 775,
+    "prime": 5881,
+    "timeToCalculate": 0,
+    "quotient": 774.000170039109,
+    "difference": 5106
+  },
+  {
+    "index": 776,
+    "prime": 5897,
+    "timeToCalculate": 0,
+    "quotient": 775.0001695777514,
+    "difference": 5121
+  },
+  {
+    "index": 777,
+    "prime": 5903,
+    "timeToCalculate": 0,
+    "quotient": 776.000169405387,
+    "difference": 5126
+  },
+  {
+    "index": 778,
+    "prime": 5923,
+    "timeToCalculate": 0,
+    "quotient": 777.0001688333615,
+    "difference": 5145
+  },
+  {
+    "index": 779,
+    "prime": 5927,
+    "timeToCalculate": 0,
+    "quotient": 778.0001687194197,
+    "difference": 5148
+  },
+  {
+    "index": 780,
+    "prime": 5939,
+    "timeToCalculate": 0,
+    "quotient": 779.0001683785149,
+    "difference": 5159
+  },
+  {
+    "index": 781,
+    "prime": 5953,
+    "timeToCalculate": 0,
+    "quotient": 780.0001679825298,
+    "difference": 5172
+  },
+  {
+    "index": 782,
+    "prime": 5981,
+    "timeToCalculate": 0,
+    "quotient": 781.0001671961211,
+    "difference": 5199
+  },
+  {
+    "index": 783,
+    "prime": 5987,
+    "timeToCalculate": 0,
+    "quotient": 782.0001670285619,
+    "difference": 5204
+  },
+  {
+    "index": 784,
+    "prime": 6007,
+    "timeToCalculate": 0,
+    "quotient": 783.0001664724488,
+    "difference": 5223
+  },
+  {
+    "index": 785,
+    "prime": 6011,
+    "timeToCalculate": 0,
+    "quotient": 784.0001663616703,
+    "difference": 5226
+  },
+  {
+    "index": 786,
+    "prime": 6029,
+    "timeToCalculate": 0,
+    "quotient": 785.0001658649859,
+    "difference": 5243
+  },
+  {
+    "index": 787,
+    "prime": 6037,
+    "timeToCalculate": 0,
+    "quotient": 786.000165645188,
+    "difference": 5250
+  },
+  {
+    "index": 788,
+    "prime": 6043,
+    "timeToCalculate": 0,
+    "quotient": 787.0001654807215,
+    "difference": 5255
+  },
+  {
+    "index": 789,
+    "prime": 6047,
+    "timeToCalculate": 0,
+    "quotient": 788.0001653712585,
+    "difference": 5258
+  },
+  {
+    "index": 790,
+    "prime": 6053,
+    "timeToCalculate": 0,
+    "quotient": 789.0001652073352,
+    "difference": 5263
+  },
+  {
+    "index": 791,
+    "prime": 6067,
+    "timeToCalculate": 0,
+    "quotient": 790.0001648261084,
+    "difference": 5276
+  },
+  {
+    "index": 792,
+    "prime": 6073,
+    "timeToCalculate": 0,
+    "quotient": 791.0001646632636,
+    "difference": 5281
+  },
+  {
+    "index": 793,
+    "prime": 6079,
+    "timeToCalculate": 0,
+    "quotient": 792.0001645007402,
+    "difference": 5286
+  },
+  {
+    "index": 794,
+    "prime": 6089,
+    "timeToCalculate": 0,
+    "quotient": 793.0001642305797,
+    "difference": 5295
+  },
+  {
+    "index": 795,
+    "prime": 6091,
+    "timeToCalculate": 0,
+    "quotient": 794.000164176654,
+    "difference": 5296
+  },
+  {
+    "index": 796,
+    "prime": 6101,
+    "timeToCalculate": 0,
+    "quotient": 795.0001639075562,
+    "difference": 5305
+  },
+  {
+    "index": 797,
+    "prime": 6113,
+    "timeToCalculate": 0,
+    "quotient": 796.0001635858008,
+    "difference": 5316
+  },
+  {
+    "index": 798,
+    "prime": 6121,
+    "timeToCalculate": 0,
+    "quotient": 797.000163371998,
+    "difference": 5323
+  },
+  {
+    "index": 799,
+    "prime": 6131,
+    "timeToCalculate": 0,
+    "quotient": 798.0001631055293,
+    "difference": 5332
+  },
+  {
+    "index": 800,
+    "prime": 6133,
+    "timeToCalculate": 0,
+    "quotient": 799.0001630523398,
+    "difference": 5333
+  },
+  {
+    "index": 801,
+    "prime": 6143,
+    "timeToCalculate": 0,
+    "quotient": 800.0001627869119,
+    "difference": 5342
+  },
+  {
+    "index": 802,
+    "prime": 6151,
+    "timeToCalculate": 0,
+    "quotient": 801.000162575191,
+    "difference": 5349
+  },
+  {
+    "index": 803,
+    "prime": 6163,
+    "timeToCalculate": 0,
+    "quotient": 802.0001622586402,
+    "difference": 5360
+  },
+  {
+    "index": 804,
+    "prime": 6173,
+    "timeToCalculate": 0,
+    "quotient": 803.0001619957881,
+    "difference": 5369
+  },
+  {
+    "index": 805,
+    "prime": 6197,
+    "timeToCalculate": 0,
+    "quotient": 804.0001613684041,
+    "difference": 5392
+  },
+  {
+    "index": 806,
+    "prime": 6199,
+    "timeToCalculate": 0,
+    "quotient": 805.0001613163413,
+    "difference": 5393
+  },
+  {
+    "index": 807,
+    "prime": 6203,
+    "timeToCalculate": 0,
+    "quotient": 806.0001612123166,
+    "difference": 5396
+  },
+  {
+    "index": 808,
+    "prime": 6211,
+    "timeToCalculate": 0,
+    "quotient": 807.0001610046692,
+    "difference": 5403
+  },
+  {
+    "index": 809,
+    "prime": 6217,
+    "timeToCalculate": 0,
+    "quotient": 808.0001608492843,
+    "difference": 5408
+  },
+  {
+    "index": 810,
+    "prime": 6221,
+    "timeToCalculate": 0,
+    "quotient": 809.0001607458607,
+    "difference": 5411
+  },
+  {
+    "index": 811,
+    "prime": 6229,
+    "timeToCalculate": 0,
+    "quotient": 810.0001605394124,
+    "difference": 5418
+  },
+  {
+    "index": 812,
+    "prime": 6247,
+    "timeToCalculate": 0,
+    "quotient": 811.0001600768369,
+    "difference": 5435
+  },
+  {
+    "index": 813,
+    "prime": 6257,
+    "timeToCalculate": 0,
+    "quotient": 812.0001598210005,
+    "difference": 5444
+  },
+  {
+    "index": 814,
+    "prime": 6263,
+    "timeToCalculate": 0,
+    "quotient": 813.0001596678908,
+    "difference": 5449
+  },
+  {
+    "index": 815,
+    "prime": 6269,
+    "timeToCalculate": 0,
+    "quotient": 814.0001595150742,
+    "difference": 5454
+  },
+  {
+    "index": 816,
+    "prime": 6271,
+    "timeToCalculate": 0,
+    "quotient": 815.0001594642002,
+    "difference": 5455
+  },
+  {
+    "index": 817,
+    "prime": 6277,
+    "timeToCalculate": 0,
+    "quotient": 816.0001593117731,
+    "difference": 5460
+  },
+  {
+    "index": 818,
+    "prime": 6287,
+    "timeToCalculate": 0,
+    "quotient": 817.0001590583744,
+    "difference": 5469
+  },
+  {
+    "index": 819,
+    "prime": 6299,
+    "timeToCalculate": 0,
+    "quotient": 818.000158755358,
+    "difference": 5480
+  },
+  {
+    "index": 820,
+    "prime": 6301,
+    "timeToCalculate": 0,
+    "quotient": 819.0001587049675,
+    "difference": 5481
+  },
+  {
+    "index": 821,
+    "prime": 6311,
+    "timeToCalculate": 0,
+    "quotient": 820.0001584534939,
+    "difference": 5490
+  },
+  {
+    "index": 822,
+    "prime": 6317,
+    "timeToCalculate": 0,
+    "quotient": 821.000158302992,
+    "difference": 5495
+  },
+  {
+    "index": 823,
+    "prime": 6323,
+    "timeToCalculate": 0,
+    "quotient": 822.0001581527756,
+    "difference": 5500
+  },
+  {
+    "index": 824,
+    "prime": 6329,
+    "timeToCalculate": 0,
+    "quotient": 823.000158002844,
+    "difference": 5505
+  },
+  {
+    "index": 825,
+    "prime": 6337,
+    "timeToCalculate": 0,
+    "quotient": 824.000157803377,
+    "difference": 5512
+  },
+  {
+    "index": 826,
+    "prime": 6343,
+    "timeToCalculate": 0,
+    "quotient": 825.0001576541069,
+    "difference": 5517
+  },
+  {
+    "index": 827,
+    "prime": 6353,
+    "timeToCalculate": 0,
+    "quotient": 826.00015740595,
+    "difference": 5526
+  },
+  {
+    "index": 828,
+    "prime": 6359,
+    "timeToCalculate": 0,
+    "quotient": 827.0001572574304,
+    "difference": 5531
+  },
+  {
+    "index": 829,
+    "prime": 6361,
+    "timeToCalculate": 0,
+    "quotient": 828.0001572079861,
+    "difference": 5532
+  },
+  {
+    "index": 830,
+    "prime": 6367,
+    "timeToCalculate": 0,
+    "quotient": 829.0001570598398,
+    "difference": 5537
+  },
+  {
+    "index": 831,
+    "prime": 6373,
+    "timeToCalculate": 0,
+    "quotient": 830.0001569119723,
+    "difference": 5542
+  },
+  {
+    "index": 832,
+    "prime": 6379,
+    "timeToCalculate": 0,
+    "quotient": 831.0001567643832,
+    "difference": 5547
+  },
+  {
+    "index": 833,
+    "prime": 6389,
+    "timeToCalculate": 0,
+    "quotient": 832.0001565190171,
+    "difference": 5556
+  },
+  {
+    "index": 834,
+    "prime": 6397,
+    "timeToCalculate": 0,
+    "quotient": 833.0001563232765,
+    "difference": 5563
+  },
+  {
+    "index": 835,
+    "prime": 6421,
+    "timeToCalculate": 0,
+    "quotient": 834.0001557389814,
+    "difference": 5586
+  },
+  {
+    "index": 836,
+    "prime": 6427,
+    "timeToCalculate": 0,
+    "quotient": 835.0001555935895,
+    "difference": 5591
+  },
+  {
+    "index": 837,
+    "prime": 6449,
+    "timeToCalculate": 0,
+    "quotient": 836.0001550628004,
+    "difference": 5612
+  },
+  {
+    "index": 838,
+    "prime": 6451,
+    "timeToCalculate": 0,
+    "quotient": 837.0001550147264,
+    "difference": 5613
+  },
+  {
+    "index": 839,
+    "prime": 6469,
+    "timeToCalculate": 0,
+    "quotient": 838.0001545833977,
+    "difference": 5630
+  },
+  {
+    "index": 840,
+    "prime": 6473,
+    "timeToCalculate": 0,
+    "quotient": 839.0001544878727,
+    "difference": 5633
+  },
+  {
+    "index": 841,
+    "prime": 6481,
+    "timeToCalculate": 0,
+    "quotient": 840.0001542971763,
+    "difference": 5640
+  },
+  {
+    "index": 842,
+    "prime": 6491,
+    "timeToCalculate": 0,
+    "quotient": 841.0001540594669,
+    "difference": 5649
+  },
+  {
+    "index": 843,
+    "prime": 6521,
+    "timeToCalculate": 0,
+    "quotient": 842.000153350713,
+    "difference": 5678
+  },
+  {
+    "index": 844,
+    "prime": 6529,
+    "timeToCalculate": 0,
+    "quotient": 843.0001531628121,
+    "difference": 5685
+  },
+  {
+    "index": 845,
+    "prime": 6547,
+    "timeToCalculate": 0,
+    "quotient": 844.0001527417138,
+    "difference": 5702
+  },
+  {
+    "index": 846,
+    "prime": 6551,
+    "timeToCalculate": 0,
+    "quotient": 845.0001526484506,
+    "difference": 5705
+  },
+  {
+    "index": 847,
+    "prime": 6553,
+    "timeToCalculate": 0,
+    "quotient": 846.0001526018617,
+    "difference": 5706
+  },
+  {
+    "index": 848,
+    "prime": 6563,
+    "timeToCalculate": 0,
+    "quotient": 847.0001523693433,
+    "difference": 5715
+  },
+  {
+    "index": 849,
+    "prime": 6569,
+    "timeToCalculate": 0,
+    "quotient": 848.000152230172,
+    "difference": 5720
+  },
+  {
+    "index": 850,
+    "prime": 6571,
+    "timeToCalculate": 0,
+    "quotient": 849.000152183838,
+    "difference": 5721
+  },
+  {
+    "index": 851,
+    "prime": 6577,
+    "timeToCalculate": 0,
+    "quotient": 850.0001520450053,
+    "difference": 5726
+  },
+  {
+    "index": 852,
+    "prime": 6581,
+    "timeToCalculate": 0,
+    "quotient": 851.0001519525908,
+    "difference": 5729
+  },
+  {
+    "index": 853,
+    "prime": 6599,
+    "timeToCalculate": 0,
+    "quotient": 852.0001515381118,
+    "difference": 5746
+  },
+  {
+    "index": 854,
+    "prime": 6607,
+    "timeToCalculate": 0,
+    "quotient": 853.0001513546239,
+    "difference": 5753
+  },
+  {
+    "index": 855,
+    "prime": 6619,
+    "timeToCalculate": 0,
+    "quotient": 854.0001510802236,
+    "difference": 5764
+  },
+  {
+    "index": 856,
+    "prime": 6637,
+    "timeToCalculate": 0,
+    "quotient": 855.0001506704837,
+    "difference": 5781
+  },
+  {
+    "index": 857,
+    "prime": 6653,
+    "timeToCalculate": 0,
+    "quotient": 856.0001503081317,
+    "difference": 5796
+  },
+  {
+    "index": 858,
+    "prime": 6659,
+    "timeToCalculate": 0,
+    "quotient": 857.0001501726986,
+    "difference": 5801
+  },
+  {
+    "index": 859,
+    "prime": 6661,
+    "timeToCalculate": 0,
+    "quotient": 858.0001501276084,
+    "difference": 5802
+  },
+  {
+    "index": 860,
+    "prime": 6673,
+    "timeToCalculate": 0,
+    "quotient": 859.0001498576353,
+    "difference": 5813
+  },
+  {
+    "index": 861,
+    "prime": 6679,
+    "timeToCalculate": 0,
+    "quotient": 860.0001497230124,
+    "difference": 5818
+  },
+  {
+    "index": 862,
+    "prime": 6689,
+    "timeToCalculate": 0,
+    "quotient": 861.0001494991777,
+    "difference": 5827
+  },
+  {
+    "index": 863,
+    "prime": 6691,
+    "timeToCalculate": 0,
+    "quotient": 862.0001494544911,
+    "difference": 5828
+  },
+  {
+    "index": 864,
+    "prime": 6701,
+    "timeToCalculate": 0,
+    "quotient": 863.000149231458,
+    "difference": 5837
+  },
+  {
+    "index": 865,
+    "prime": 6703,
+    "timeToCalculate": 0,
+    "quotient": 864.0001491869313,
+    "difference": 5838
+  },
+  {
+    "index": 866,
+    "prime": 6709,
+    "timeToCalculate": 0,
+    "quotient": 865.0001490535102,
+    "difference": 5843
+  },
+  {
+    "index": 867,
+    "prime": 6719,
+    "timeToCalculate": 0,
+    "quotient": 866.0001488316714,
+    "difference": 5852
+  },
+  {
+    "index": 868,
+    "prime": 6733,
+    "timeToCalculate": 0,
+    "quotient": 867.0001485222041,
+    "difference": 5865
+  },
+  {
+    "index": 869,
+    "prime": 6737,
+    "timeToCalculate": 0,
+    "quotient": 868.0001484340211,
+    "difference": 5868
+  },
+  {
+    "index": 870,
+    "prime": 6761,
+    "timeToCalculate": 0,
+    "quotient": 869.0001479071143,
+    "difference": 5891
+  },
+  {
+    "index": 871,
+    "prime": 6763,
+    "timeToCalculate": 0,
+    "quotient": 870.0001478633742,
+    "difference": 5892
+  },
+  {
+    "index": 872,
+    "prime": 6779,
+    "timeToCalculate": 0,
+    "quotient": 871.0001475143827,
+    "difference": 5907
+  },
+  {
+    "index": 873,
+    "prime": 6781,
+    "timeToCalculate": 0,
+    "quotient": 872.0001474708745,
+    "difference": 5908
+  },
+  {
+    "index": 874,
+    "prime": 6791,
+    "timeToCalculate": 0,
+    "quotient": 873.0001472537182,
+    "difference": 5917
+  },
+  {
+    "index": 875,
+    "prime": 6793,
+    "timeToCalculate": 0,
+    "quotient": 874.0001472103636,
+    "difference": 5918
+  },
+  {
+    "index": 876,
+    "prime": 6803,
+    "timeToCalculate": 0,
+    "quotient": 875.0001469939732,
+    "difference": 5927
+  },
+  {
+    "index": 877,
+    "prime": 6823,
+    "timeToCalculate": 0,
+    "quotient": 876.0001465630954,
+    "difference": 5946
+  },
+  {
+    "index": 878,
+    "prime": 6827,
+    "timeToCalculate": 0,
+    "quotient": 877.0001464772228,
+    "difference": 5949
+  },
+  {
+    "index": 879,
+    "prime": 6829,
+    "timeToCalculate": 0,
+    "quotient": 878.0001464343242,
+    "difference": 5950
+  },
+  {
+    "index": 880,
+    "prime": 6833,
+    "timeToCalculate": 0,
+    "quotient": 879.0001463486024,
+    "difference": 5953
+  },
+  {
+    "index": 881,
+    "prime": 6841,
+    "timeToCalculate": 0,
+    "quotient": 880.0001461774594,
+    "difference": 5960
+  },
+  {
+    "index": 882,
+    "prime": 6857,
+    "timeToCalculate": 0,
+    "quotient": 881.0001458363716,
+    "difference": 5975
+  },
+  {
+    "index": 883,
+    "prime": 6863,
+    "timeToCalculate": 0,
+    "quotient": 882.0001457088737,
+    "difference": 5980
+  },
+  {
+    "index": 884,
+    "prime": 6869,
+    "timeToCalculate": 0,
+    "quotient": 883.0001455815985,
+    "difference": 5985
+  },
+  {
+    "index": 885,
+    "prime": 6871,
+    "timeToCalculate": 0,
+    "quotient": 884.0001455392228,
+    "difference": 5986
+  },
+  {
+    "index": 886,
+    "prime": 6883,
+    "timeToCalculate": 0,
+    "quotient": 885.0001452854859,
+    "difference": 5997
+  },
+  {
+    "index": 887,
+    "prime": 6899,
+    "timeToCalculate": 0,
+    "quotient": 886.0001449485433,
+    "difference": 6012
+  },
+  {
+    "index": 888,
+    "prime": 6907,
+    "timeToCalculate": 0,
+    "quotient": 887.0001447806573,
+    "difference": 6019
+  },
+  {
+    "index": 889,
+    "prime": 6911,
+    "timeToCalculate": 0,
+    "quotient": 888.00014469686,
+    "difference": 6022
+  },
+  {
+    "index": 890,
+    "prime": 6917,
+    "timeToCalculate": 0,
+    "quotient": 889.0001445713459,
+    "difference": 6027
+  },
+  {
+    "index": 891,
+    "prime": 6947,
+    "timeToCalculate": 0,
+    "quotient": 890.0001439470275,
+    "difference": 6056
+  },
+  {
+    "index": 892,
+    "prime": 6949,
+    "timeToCalculate": 0,
+    "quotient": 891.000143905598,
+    "difference": 6057
+  },
+  {
+    "index": 893,
+    "prime": 6959,
+    "timeToCalculate": 0,
+    "quotient": 892.0001436988073,
+    "difference": 6066
+  },
+  {
+    "index": 894,
+    "prime": 6961,
+    "timeToCalculate": 0,
+    "quotient": 893.0001436575204,
+    "difference": 6067
+  },
+  {
+    "index": 895,
+    "prime": 6967,
+    "timeToCalculate": 0,
+    "quotient": 894.0001435338022,
+    "difference": 6072
+  },
+  {
+    "index": 896,
+    "prime": 6971,
+    "timeToCalculate": 0,
+    "quotient": 895.0001434514417,
+    "difference": 6075
+  },
+  {
+    "index": 897,
+    "prime": 6977,
+    "timeToCalculate": 0,
+    "quotient": 896.000143328078,
+    "difference": 6080
+  },
+  {
+    "index": 898,
+    "prime": 6983,
+    "timeToCalculate": 0,
+    "quotient": 897.0001432049263,
+    "difference": 6085
+  },
+  {
+    "index": 899,
+    "prime": 6991,
+    "timeToCalculate": 0,
+    "quotient": 898.0001430410528,
+    "difference": 6092
+  },
+  {
+    "index": 900,
+    "prime": 6997,
+    "timeToCalculate": 0,
+    "quotient": 899.0001429183936,
+    "difference": 6097
+  },
+  {
+    "index": 901,
+    "prime": 7001,
+    "timeToCalculate": 0,
+    "quotient": 900.0001428367376,
+    "difference": 6100
+  },
+  {
+    "index": 902,
+    "prime": 7013,
+    "timeToCalculate": 0,
+    "quotient": 901.0001425923285,
+    "difference": 6111
+  },
+  {
+    "index": 903,
+    "prime": 7019,
+    "timeToCalculate": 0,
+    "quotient": 902.0001424704374,
+    "difference": 6116
+  },
+  {
+    "index": 904,
+    "prime": 7027,
+    "timeToCalculate": 0,
+    "quotient": 903.0001423082397,
+    "difference": 6123
+  },
+  {
+    "index": 905,
+    "prime": 7039,
+    "timeToCalculate": 0,
+    "quotient": 904.0001420656343,
+    "difference": 6134
+  },
+  {
+    "index": 906,
+    "prime": 7043,
+    "timeToCalculate": 0,
+    "quotient": 905.0001419849496,
+    "difference": 6137
+  },
+  {
+    "index": 907,
+    "prime": 7057,
+    "timeToCalculate": 0,
+    "quotient": 906.0001417032734,
+    "difference": 6150
+  },
+  {
+    "index": 908,
+    "prime": 7069,
+    "timeToCalculate": 0,
+    "quotient": 907.0001414627246,
+    "difference": 6161
+  },
+  {
+    "index": 909,
+    "prime": 7079,
+    "timeToCalculate": 0,
+    "quotient": 908.0001412628902,
+    "difference": 6170
+  },
+  {
+    "index": 910,
+    "prime": 7103,
+    "timeToCalculate": 0,
+    "quotient": 909.0001407855835,
+    "difference": 6193
+  },
+  {
+    "index": 911,
+    "prime": 7109,
+    "timeToCalculate": 0,
+    "quotient": 910.0001406667604,
+    "difference": 6198
+  },
+  {
+    "index": 912,
+    "prime": 7121,
+    "timeToCalculate": 0,
+    "quotient": 911.000140429715,
+    "difference": 6209
+  },
+  {
+    "index": 913,
+    "prime": 7127,
+    "timeToCalculate": 0,
+    "quotient": 912.0001403114915,
+    "difference": 6214
+  },
+  {
+    "index": 914,
+    "prime": 7129,
+    "timeToCalculate": 0,
+    "quotient": 913.000140272128,
+    "difference": 6215
+  },
+  {
+    "index": 915,
+    "prime": 7151,
+    "timeToCalculate": 0,
+    "quotient": 914.0001398405817,
+    "difference": 6236
+  },
+  {
+    "index": 916,
+    "prime": 7159,
+    "timeToCalculate": 0,
+    "quotient": 915.0001396843135,
+    "difference": 6243
+  },
+  {
+    "index": 917,
+    "prime": 7177,
+    "timeToCalculate": 0,
+    "quotient": 916.0001393339836,
+    "difference": 6260
+  },
+  {
+    "index": 918,
+    "prime": 7187,
+    "timeToCalculate": 0,
+    "quotient": 917.0001391401141,
+    "difference": 6269
+  },
+  {
+    "index": 919,
+    "prime": 7193,
+    "timeToCalculate": 0,
+    "quotient": 918.0001390240511,
+    "difference": 6274
+  },
+  {
+    "index": 920,
+    "prime": 7207,
+    "timeToCalculate": 0,
+    "quotient": 919.0001387539892,
+    "difference": 6287
+  },
+  {
+    "index": 921,
+    "prime": 7211,
+    "timeToCalculate": 0,
+    "quotient": 920.0001386770213,
+    "difference": 6290
+  },
+  {
+    "index": 922,
+    "prime": 7213,
+    "timeToCalculate": 0,
+    "quotient": 921.0001386385693,
+    "difference": 6291
+  },
+  {
+    "index": 923,
+    "prime": 7219,
+    "timeToCalculate": 0,
+    "quotient": 922.0001385233412,
+    "difference": 6296
+  },
+  {
+    "index": 924,
+    "prime": 7229,
+    "timeToCalculate": 0,
+    "quotient": 923.0001383317194,
+    "difference": 6305
+  },
+  {
+    "index": 925,
+    "prime": 7237,
+    "timeToCalculate": 0,
+    "quotient": 924.0001381788034,
+    "difference": 6312
+  },
+  {
+    "index": 926,
+    "prime": 7243,
+    "timeToCalculate": 0,
+    "quotient": 925.000138064338,
+    "difference": 6317
+  },
+  {
+    "index": 927,
+    "prime": 7247,
+    "timeToCalculate": 0,
+    "quotient": 926.000137988133,
+    "difference": 6320
+  },
+  {
+    "index": 928,
+    "prime": 7253,
+    "timeToCalculate": 0,
+    "quotient": 927.0001378739831,
+    "difference": 6325
+  },
+  {
+    "index": 929,
+    "prime": 7283,
+    "timeToCalculate": 0,
+    "quotient": 928.0001373060552,
+    "difference": 6354
+  },
+  {
+    "index": 930,
+    "prime": 7297,
+    "timeToCalculate": 0,
+    "quotient": 929.0001370426203,
+    "difference": 6367
+  },
+  {
+    "index": 931,
+    "prime": 7307,
+    "timeToCalculate": 0,
+    "quotient": 930.0001368550705,
+    "difference": 6376
+  },
+  {
+    "index": 932,
+    "prime": 7309,
+    "timeToCalculate": 0,
+    "quotient": 931.0001368176221,
+    "difference": 6377
+  },
+  {
+    "index": 933,
+    "prime": 7321,
+    "timeToCalculate": 0,
+    "quotient": 932.0001365933616,
+    "difference": 6388
+  },
+  {
+    "index": 934,
+    "prime": 7331,
+    "timeToCalculate": 0,
+    "quotient": 933.0001364070386,
+    "difference": 6397
+  },
+  {
+    "index": 935,
+    "prime": 7333,
+    "timeToCalculate": 0,
+    "quotient": 934.000136369835,
+    "difference": 6398
+  },
+  {
+    "index": 936,
+    "prime": 7349,
+    "timeToCalculate": 0,
+    "quotient": 935.0001360729351,
+    "difference": 6413
+  },
+  {
+    "index": 937,
+    "prime": 7351,
+    "timeToCalculate": 0,
+    "quotient": 936.0001360359134,
+    "difference": 6414
+  },
+  {
+    "index": 938,
+    "prime": 7369,
+    "timeToCalculate": 0,
+    "quotient": 937.0001357036233,
+    "difference": 6431
+  },
+  {
+    "index": 939,
+    "prime": 7393,
+    "timeToCalculate": 0,
+    "quotient": 938.0001352630867,
+    "difference": 6454
+  },
+  {
+    "index": 940,
+    "prime": 7411,
+    "timeToCalculate": 0,
+    "quotient": 939.0001349345567,
+    "difference": 6471
+  },
+  {
+    "index": 941,
+    "prime": 7417,
+    "timeToCalculate": 0,
+    "quotient": 940.0001348254011,
+    "difference": 6476
+  },
+  {
+    "index": 942,
+    "prime": 7433,
+    "timeToCalculate": 0,
+    "quotient": 941.0001345351809,
+    "difference": 6491
+  },
+  {
+    "index": 943,
+    "prime": 7451,
+    "timeToCalculate": 0,
+    "quotient": 942.0001342101731,
+    "difference": 6508
+  },
+  {
+    "index": 944,
+    "prime": 7457,
+    "timeToCalculate": 0,
+    "quotient": 943.0001341021858,
+    "difference": 6513
+  },
+  {
+    "index": 945,
+    "prime": 7459,
+    "timeToCalculate": 0,
+    "quotient": 944.0001340662287,
+    "difference": 6514
+  },
+  {
+    "index": 946,
+    "prime": 7477,
+    "timeToCalculate": 0,
+    "quotient": 945.00013374348,
+    "difference": 6531
+  },
+  {
+    "index": 947,
+    "prime": 7481,
+    "timeToCalculate": 0,
+    "quotient": 946.000133671969,
+    "difference": 6534
+  },
+  {
+    "index": 948,
+    "prime": 7487,
+    "timeToCalculate": 0,
+    "quotient": 947.0001335648458,
+    "difference": 6539
+  },
+  {
+    "index": 949,
+    "prime": 7489,
+    "timeToCalculate": 0,
+    "quotient": 948.0001335291761,
+    "difference": 6540
+  },
+  {
+    "index": 950,
+    "prime": 7499,
+    "timeToCalculate": 0,
+    "quotient": 949.0001333511135,
+    "difference": 6549
+  },
+  {
+    "index": 951,
+    "prime": 7507,
+    "timeToCalculate": 0,
+    "quotient": 950.000133209005,
+    "difference": 6556
+  },
+  {
+    "index": 952,
+    "prime": 7517,
+    "timeToCalculate": 0,
+    "quotient": 951.0001330317946,
+    "difference": 6565
+  },
+  {
+    "index": 953,
+    "prime": 7523,
+    "timeToCalculate": 0,
+    "quotient": 952.0001329256945,
+    "difference": 6570
+  },
+  {
+    "index": 954,
+    "prime": 7529,
+    "timeToCalculate": 0,
+    "quotient": 953.0001328197636,
+    "difference": 6575
+  },
+  {
+    "index": 955,
+    "prime": 7537,
+    "timeToCalculate": 0,
+    "quotient": 954.0001326787847,
+    "difference": 6582
+  },
+  {
+    "index": 956,
+    "prime": 7541,
+    "timeToCalculate": 0,
+    "quotient": 955.0001326084074,
+    "difference": 6585
+  },
+  {
+    "index": 957,
+    "prime": 7547,
+    "timeToCalculate": 0,
+    "quotient": 956.0001325029813,
+    "difference": 6590
+  },
+  {
+    "index": 958,
+    "prime": 7549,
+    "timeToCalculate": 0,
+    "quotient": 957.0001324678765,
+    "difference": 6591
+  },
+  {
+    "index": 959,
+    "prime": 7559,
+    "timeToCalculate": 0,
+    "quotient": 958.0001322926313,
+    "difference": 6600
+  },
+  {
+    "index": 960,
+    "prime": 7561,
+    "timeToCalculate": 0,
+    "quotient": 959.0001322576379,
+    "difference": 6601
+  },
+  {
+    "index": 961,
+    "prime": 7573,
+    "timeToCalculate": 0,
+    "quotient": 960.0001320480656,
+    "difference": 6612
+  },
+  {
+    "index": 962,
+    "prime": 7577,
+    "timeToCalculate": 0,
+    "quotient": 961.0001319783555,
+    "difference": 6615
+  },
+  {
+    "index": 963,
+    "prime": 7583,
+    "timeToCalculate": 0,
+    "quotient": 962.0001318739286,
+    "difference": 6620
+  },
+  {
+    "index": 964,
+    "prime": 7589,
+    "timeToCalculate": 0,
+    "quotient": 963.0001317696666,
+    "difference": 6625
+  },
+  {
+    "index": 965,
+    "prime": 7591,
+    "timeToCalculate": 0,
+    "quotient": 964.0001317349493,
+    "difference": 6626
+  },
+  {
+    "index": 966,
+    "prime": 7603,
+    "timeToCalculate": 0,
+    "quotient": 965.0001315270288,
+    "difference": 6637
+  },
+  {
+    "index": 967,
+    "prime": 7607,
+    "timeToCalculate": 0,
+    "quotient": 966.0001314578677,
+    "difference": 6640
+  },
+  {
+    "index": 968,
+    "prime": 7621,
+    "timeToCalculate": 0,
+    "quotient": 967.0001312163758,
+    "difference": 6653
+  },
+  {
+    "index": 969,
+    "prime": 7639,
+    "timeToCalculate": 0,
+    "quotient": 968.0001309071868,
+    "difference": 6670
+  },
+  {
+    "index": 970,
+    "prime": 7643,
+    "timeToCalculate": 0,
+    "quotient": 969.0001308386759,
+    "difference": 6673
+  },
+  {
+    "index": 971,
+    "prime": 7649,
+    "timeToCalculate": 0,
+    "quotient": 970.000130736044,
+    "difference": 6678
+  },
+  {
+    "index": 972,
+    "prime": 7669,
+    "timeToCalculate": 0,
+    "quotient": 971.0001303950971,
+    "difference": 6697
+  },
+  {
+    "index": 973,
+    "prime": 7673,
+    "timeToCalculate": 0,
+    "quotient": 972.000130327121,
+    "difference": 6700
+  },
+  {
+    "index": 974,
+    "prime": 7681,
+    "timeToCalculate": 0,
+    "quotient": 973.0001301913813,
+    "difference": 6707
+  },
+  {
+    "index": 975,
+    "prime": 7687,
+    "timeToCalculate": 0,
+    "quotient": 974.0001300897619,
+    "difference": 6712
+  },
+  {
+    "index": 976,
+    "prime": 7691,
+    "timeToCalculate": 0,
+    "quotient": 975.0001300221038,
+    "difference": 6715
+  },
+  {
+    "index": 977,
+    "prime": 7699,
+    "timeToCalculate": 0,
+    "quotient": 976.0001298869984,
+    "difference": 6722
+  },
+  {
+    "index": 978,
+    "prime": 7703,
+    "timeToCalculate": 0,
+    "quotient": 977.0001298195508,
+    "difference": 6725
+  },
+  {
+    "index": 979,
+    "prime": 7717,
+    "timeToCalculate": 0,
+    "quotient": 978.0001295840352,
+    "difference": 6738
+  },
+  {
+    "index": 980,
+    "prime": 7723,
+    "timeToCalculate": 0,
+    "quotient": 979.0001294833614,
+    "difference": 6743
+  },
+  {
+    "index": 981,
+    "prime": 7727,
+    "timeToCalculate": 0,
+    "quotient": 980.0001294163324,
+    "difference": 6746
+  },
+  {
+    "index": 982,
+    "prime": 7741,
+    "timeToCalculate": 0,
+    "quotient": 981.0001291822762,
+    "difference": 6759
+  },
+  {
+    "index": 983,
+    "prime": 7753,
+    "timeToCalculate": 0,
+    "quotient": 982.0001289823294,
+    "difference": 6770
+  },
+  {
+    "index": 984,
+    "prime": 7757,
+    "timeToCalculate": 0,
+    "quotient": 983.000128915818,
+    "difference": 6773
+  },
+  {
+    "index": 985,
+    "prime": 7759,
+    "timeToCalculate": 0,
+    "quotient": 984.000128882588,
+    "difference": 6774
+  },
+  {
+    "index": 986,
+    "prime": 7789,
+    "timeToCalculate": 0,
+    "quotient": 985.0001283861857,
+    "difference": 6803
+  },
+  {
+    "index": 987,
+    "prime": 7793,
+    "timeToCalculate": 0,
+    "quotient": 986.0001283202874,
+    "difference": 6806
+  },
+  {
+    "index": 988,
+    "prime": 7817,
+    "timeToCalculate": 0,
+    "quotient": 987.0001279263145,
+    "difference": 6829
+  },
+  {
+    "index": 989,
+    "prime": 7823,
+    "timeToCalculate": 0,
+    "quotient": 988.0001278281989,
+    "difference": 6834
+  },
+  {
+    "index": 990,
+    "prime": 7829,
+    "timeToCalculate": 0,
+    "quotient": 989.0001277302338,
+    "difference": 6839
+  },
+  {
+    "index": 991,
+    "prime": 7841,
+    "timeToCalculate": 0,
+    "quotient": 990.0001275347532,
+    "difference": 6850
+  },
+  {
+    "index": 992,
+    "prime": 7853,
+    "timeToCalculate": 0,
+    "quotient": 991.0001273398701,
+    "difference": 6861
+  },
+  {
+    "index": 993,
+    "prime": 7867,
+    "timeToCalculate": 0,
+    "quotient": 992.0001271132579,
+    "difference": 6874
+  },
+  {
+    "index": 994,
+    "prime": 7873,
+    "timeToCalculate": 0,
+    "quotient": 993.0001270163851,
+    "difference": 6879
+  },
+  {
+    "index": 995,
+    "prime": 7877,
+    "timeToCalculate": 0,
+    "quotient": 994.0001269518852,
+    "difference": 6882
+  },
+  {
+    "index": 996,
+    "prime": 7879,
+    "timeToCalculate": 0,
+    "quotient": 995.0001269196598,
+    "difference": 6883
+  },
+  {
+    "index": 997,
+    "prime": 7883,
+    "timeToCalculate": 0,
+    "quotient": 996.0001268552581,
+    "difference": 6886
+  },
+  {
+    "index": 998,
+    "prime": 7901,
+    "timeToCalculate": 0,
+    "quotient": 997.0001265662574,
+    "difference": 6903
+  },
+  {
+    "index": 999,
+    "prime": 7907,
+    "timeToCalculate": 0,
+    "quotient": 998.0001264702163,
+    "difference": 6908
+  },
+  {
+    "index": 1000,
+    "prime": 7919,
+    "timeToCalculate": 0,
+    "quotient": 999.0001262785705,
+    "difference": 6919
+  }
+]

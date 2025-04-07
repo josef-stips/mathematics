@@ -1,13 +1,13 @@
-import os from "os";
 import { promises as fs } from 'fs';
-import path, { dirname } from "path";
-import { filePath } from "../constants";
+import path from 'path';
 
+const filePathFib = path.join(__dirname, "fibonacci.json");
 
 interface dataInterface {
     number: number;
     normalTime: number;
     memoTime: number;
+    binetTime: number;
     quotient: number;
     fibonacci_number: number;
 }
@@ -26,6 +26,14 @@ function fibonacci(n: number): number {
     return fibonacci(n - 1) + fibonacci(n - 2);
 }
 
+function binet_fibonacci(n: number): number {
+    const phi = (1 + Math.sqrt(5)) / 2;
+    
+    const fibN = (1 / Math.sqrt(5)) * (Math.pow(phi, n) - Math.pow(1 - phi, n));
+    
+    return Math.round(fibN);
+}
+
 async function writeFile(path: string, data: dataInterface): Promise<void> {
     let initContent = 
       `[
@@ -34,6 +42,7 @@ async function writeFile(path: string, data: dataInterface): Promise<void> {
                   "number": ${data.number},
                   "normal_fibonacci_function": ${data.normalTime},
                   "memoization_fibonacci_function": ${data.memoTime},
+                  "binet_fibonacci_function": ${data.binetTime},
                   "quotient": ${data.quotient},
                   "fibonacci_number": ${data.fibonacci_number}
               }
@@ -49,6 +58,7 @@ async function writeFile(path: string, data: dataInterface): Promise<void> {
                 number: data.number,
                 normal_fibonacci_function: data.normalTime,
                 memoization_fibonacci_function: data.memoTime,
+                binet_fibonacci_function: data.binetTime,
                 quotient: data.quotient,
                 fibonacci_number: data.fibonacci_number,
             },
@@ -69,17 +79,19 @@ async function writeFile(path: string, data: dataInterface): Promise<void> {
   }
 
 async function main() {
-    for (let i = 0; i <= 40; i++) {
+    for (let i = 0; i <= 1000; i++) {
         const data: dataInterface = {
             number: i,
             normalTime: 0,
             memoTime: 0,
+            binetTime: 0,
             quotient: 0,
             fibonacci_number: 0,
         };
-    
+        
         performance.mark("start_normal");
-        fibonacci(data.number);
+        await sleep(10);
+        //fibonacci(data.number);
         performance.mark("end_normal");
         performance.measure("Normal Fibonacci", "start_normal", "end_normal");
     
@@ -87,22 +99,33 @@ async function main() {
         data.fibonacci_number = memo_fibonacci(data.number, []);
         performance.mark("end_memo");
         performance.measure("Memoized Fibonacci", "start_memo", "end_memo");
-    
+
+        performance.mark("start_binet")
+        binet_fibonacci(data.number);
+        performance.mark("end_binet")
+        performance.measure("Binet Fibonacci", "start_binet", "end_binet");
+
         const normalMeasure = performance.getEntriesByName("Normal Fibonacci").pop();
         const memoMeasure = performance.getEntriesByName("Memoized Fibonacci").pop();
+        const binetMeasure = performance.getEntriesByName("Binet Fibonacci").pop();
     
-        if (normalMeasure && memoMeasure) {
+        if (normalMeasure && memoMeasure && binetMeasure) {
             data.normalTime = normalMeasure.duration;
             data.memoTime = memoMeasure.duration;
+            data.binetTime = binetMeasure.duration;
             data.quotient = data.normalTime / data.memoTime;
         }
     
-        await writeFile(filePath, data);
+        await writeFile(filePathFib, data);
     
         performance.clearMarks();
         performance.clearMeasures();
     }
     
+}
+
+async function sleep(ms: number):Promise<void> {
+    return new Promise(res => setTimeout(res, ms))
 }
 
 main();

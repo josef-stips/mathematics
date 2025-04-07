@@ -7,38 +7,45 @@
     <!-- Füge Chart.js CDN hinzu -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
-<body>
+<body style="background-color: rgba(17,17,17,1);color: white;">
     <h1>Fibonacci Data Visualization</h1>
     <canvas id="chart" width="600" height="300"></canvas> <!-- Verwende Canvas für das Diagramm -->
 
     <script>
-        // Funktion, um Daten vom Server zu holen
         fetch("/fib")
         .then(response => response.json())
         .then(data => {
-            // Extrahiere X- und Y-Werte für das Diagramm
-            const labels = data.map(item => item[Object.keys(item)][0].number);
+            // extract data
+            const labels = data.map(item => item[Object.keys(item)[0]].number);
             const normalFibonacci = data.map(item => item[Object.keys(item)[0]].normal_fibonacci_function);
             const memoizationFibonacci = data.map(item => item[Object.keys(item)[0]].memoization_fibonacci_function);
+            const binetFibonacci = data.map(item => item[Object.keys(item)[0]].binet_fibonacci_function);
 
-            // Erstelle das Chart mit Chart.js
+            // init chart with data
             const ctx = document.getElementById('chart').getContext('2d');
             new Chart(ctx, {
-                type: 'line', // Liniendiagramm
+                type: 'line', 
                 data: {
-                    labels: labels, // Fibonacci-Zahlen als Labels
+                    labels: labels, 
                     datasets: [
+                        //{
+                        //    label: 'Normal Fibonacci Function',
+                         //   data: normalFibonacci, 
+                        //    borderColor: 'rgb(75, 192, 192)', 
+                        //    tension: 0.1,
+                        //    fill: false
+                        //},
                         {
-                            label: 'Normal Fibonacci Function',
-                            data: normalFibonacci, // Werte für die normale Fibonacci-Funktion
-                            borderColor: 'rgb(75, 192, 192)', // Farbe der Linie
+                            label: 'Memoization Fibonacci Function',
+                            data: memoizationFibonacci, 
+                            borderColor: 'rgb(153, 102, 255)',
                             tension: 0.1,
                             fill: false
                         },
                         {
-                            label: 'Memoization Fibonacci Function',
-                            data: memoizationFibonacci, // Werte für die Memoization Fibonacci-Funktion
-                            borderColor: 'rgb(153, 102, 255)', // Farbe der Linie
+                            label: 'Binet Fibonacci Function',
+                            data: binetFibonacci, 
+                            borderColor: 'rgb(255, 127, 80)',
                             tension: 0.1,
                             fill: false
                         }
