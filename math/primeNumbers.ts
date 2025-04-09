@@ -36,10 +36,12 @@
 // Die 0 steht fuer die Nichtexistenz einer Zahl.
 // Eine Kommazahl ist eine Relation zwischen zwei Zahlen.
 // Eine Relation ist eine Beziehung zwischen zwei Zahlen.
-// Das Resultat ist die Schwingung der beiden Zahlen.
+// Das Resultat ist die Schwingung der beiden Zahlen wenn sie 1 werden.
+
+// 1/ 16 = 16^-1 = 0.0625
 
 // Die Zahlenfolge sieht so aus:
-// 1/1 1/2 1/3 1/4 1/5 1/6 1/7 1/8 1/9 1/10 ...
+// 1/1 1/2 1/3 1/4 1/5 1/6 1/7 1/8 1/9 1/10 ... 
 
 import {promises as fs} from 'fs';
 import path from 'path';
