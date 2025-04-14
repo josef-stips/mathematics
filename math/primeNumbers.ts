@@ -57,16 +57,16 @@ function isPrime(num: number): boolean {
 }
 
 function getFirstNPrimes(n: number): number[] {
-    const primes: number[] = [];
+    const primes: number[] = []; 
     let num = 2;
 
-    while (primes.length < n) {
+    while (primes.length < n) {  
         if (isPrime(num)) {
             primes.push(num);
         }
         num++;
-    }
-
+    } 
+ 
     return primes;
 }
 
@@ -92,11 +92,11 @@ async function writeFile(path: string, data: primeInterface[]): Promise<void> {
 function main() {
     let primes = getFirstNPrimes(1000).map((prime, index) => {
         return {
-            index: index + 1,
+            index: index +1 ,
             prime: prime,
             timeToCalculate: 0,
-            quotient: index + 1 / prime,
-            difference: Math.abs((index + 1) - prime)
+            quotient: Math.PI * Math.pow(1, 2) / prime,
+            difference: Math.abs((360) - prime)
         };
     })
 
